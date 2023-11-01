@@ -1,0 +1,76 @@
+- Amaze File Manager
+	- 新建 → 网盘 → SMB共享连接 → 使用自定义IP → 服务器IP地址(.ipv4) → 用户名() → 密码() → 新建
+	- 新建 → 网盘 → SCP/SFTP链接
+- Audacity
+	- 改变音高 → 半阶F → -3.00
+	- 效果 → 增幅 → 允许振幅失真
+- BleachBit
+	- Windows Explorer → 缩略图(On) → 清空
+- Chrome
+	- `chrome://flags/#enable-parallel-downloading` → Parallel downloading → Enabled
+- clawPDF
+	- PDF阅读器 → 打印 → clawPDF → 属性 → 页面设置 → 方向(横向) → 确定 → 缩放类型(每张纸多页面) → 每张页面数(2)
+- CUETools
+	- 导出 → `[%directoryname%\]%artist% - %album%\%filename%-new[%unique%].cue`
+- Directory Opus
+	- 设置 → 选项 → 工具栏 → 图标 → 导入
+	- 设置 → 自定义工具栏 → 快捷键
+- Everything
+	- 设置 →
+- FFmpeg Batch AV Converter
+	- 流多路复用 → 字幕轨 → 保存轨道
+	- 批处理 → Presets → 视频(复制流到MP4)/视频(转换为H264 HQ + 源音频)
+- GIMP
+	- 复制图层 → 选中新图层 → 颜色 → 去色 → 去色 → 模式 → luma
+	- 添加图层模板 → 选区工具 → 填充黑色
+	- 模式 → 点光/叠加/色相
+- IrfanView
+	- 按住左键拖拽 → `S-ArrowKey` → `A-ArrowKey` → `C-y`剪裁
+	- `F12`
+	- `C-s`保存
+- KMSpico
+	- PowerShell → `Set-MpPreference -DisableRealtimeMonitoring $true`
+	- Windows安全中心 → 病毒和威胁防护 → "病毒和威胁防护"设置 → 管理设置 → 实时保护(Off) → 云提供的保护(Off) → 自动提交样本(Off) → 篡改保护(Off)
+- Lively
+	- 设置 → 壁纸 → 壁纸输入 → 键盘 → 应用聚焦时的鼠标交互
+- Logseq
+	- 设置 → 常规 → 自定义快捷键 → 块编辑基本
+- QtScrcpy
+	- 手机 → 设置 → 连接 → WLAN → 当前网络 → IP地址
+	- 手机 → 设置 → 关于手机 → 版本号(x7)
+	- 系统 → 开发者选项 → USB调试(On) → 网络ADB调试(On) → 无线调试(On) → 是否允许USB调试(确定) →  一律允许使用这台计算机进行调试(允许)
+- HiBit Uninstaller
+	- 工具 → 垃圾文件清理程序 → 忽略列表 → 右键 → 添加文件夹
+		- `C:\Users\scillidan\AppData\Roaming\fnm\node-versions`
+	- 工具 → 空文件夹清理程序 → 忽略列表 → 右键 → 添加文件夹
+		- `your-postgres-database/`
+- Wallpaper Engine #.ol
+	- 新建 ... 关闭
+	- 编辑 → 在资源管理器中打开 → .json
+	- 文件 → 打开最近的项目 → .json
+	- 创意工坊 → 在创意工坊上分享壁纸 → 预览图片 → 导入文件 → 发布更新 → 关闭
+- Windows
+	- 账户
+		- 账户 → 跳过、不勾选、不联网、不填写密码
+		- 运行 → `control userpasswords2` → 属性 → 要使用本计算机，用户必须输入用户名和密码(Off)
+	- `Win+Q`
+		- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search` → BingSearchEnabled (DWORD 32-bit)(0) → CortanaConsent (DWORD 32-bit)(0)
+		- 搜索权限和历史记录 → (All Off)
+		- Windows Search设置 → 高级搜索索引器设置 → 经典 → 在此自定义搜索位置 → 修改 → 开始菜单(On) → 确定
+	- 鼠标
+		- 鼠标设置 → 其他鼠标选项 → 指针 ... Grey Tango
+		- 自定义 → 文本选择 → 浏览 → .../cursor_white/Text.cur → 应用
+	- SMB
+		- 启用或关闭Windows功能 → SMB1.0/CIFS文件共享支持(On) → SMB直通(On)
+		- 网络和共享中心 → 高级共享设置 → 专用 → 启用网络发现(On) → 启用网络连接设备的自动设置(On) → 启用文件和打印机共享(On)
+		- 计算机管理 → 本地用户和组 → 用户 → 右键 → 新用户 → 用户名() → 用户不能更改密码(On) → 密码永不过期(On) → 新建
+		- 文件夹 → 右键 → 属性 → 共享 → 共享 → 选择要与其共享的用户 ... 权限级别(读取/写入) → 共享 → 完成
+	- 查询本机IP
+		- CMD → `ipconfig | findstr /i "ipv4"`
+		- 网络状态 → 更改适配器选项 → 以太网 → 属性 → Internet协议版本4 → IPv4
+	- 添加网络位置
+		- 此电脑 → 右键 → 添加一个网络位置 → 下一页 → 选择自定义网络位置 → 查看示例 ... 用户名() → 下一步 ... 保存密码(On) → 登录 → 完成
+	- 新建防火墙规则
+		- 管理Windows防火墙规则 → 创建新规则 → 新增空白规则 ... 此程序 → 浏览名称 → 方向 → 出站
+	- 资源管理器
+		- 查看 → 选项 → 打开文件资源管理器时打开(此电脑) → 在"快速访问"中显示常用文件夹(Off)

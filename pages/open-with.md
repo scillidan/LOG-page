@@ -1,0 +1,7 @@
+- `.jpg` JPEGView, IrfanView
+- `.psd` IrfanView
+- `.svg` qView
+- `.gif` mpv
+- `.epub` ePubViewer
+- `.pdf` PDF.js
+- `.m4a` mpv, fmedia

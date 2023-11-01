@@ -1,0 +1,17 @@
+- audiobookshelf
+	- [[Bug]: Error: Cannot find module './dev' when built from source](https://github.com/advplyr/audiobookshelf/issues/1954)
+	  [Vue packages version mismatch](https://github.com/nuxt/nuxt/issues/10305)
+- fontTools
+	- ["WARNING: FFTM NOT subset; don't know how to subset; dropped"](https://github.com/filamentgroup/glyphhanger/issues/56)
+- imagepy
+	- [Issue while training: AttributeError: module 'numpy' has no attribute 'int'](https://github.com/WongKinYiu/yolov7/issues/1280#issuecomment-1360917977)
+- Nuxt
+	- [how to modify nuxt server start port ,default port is 3000](https://github.com/nuxt/nuxt/issues/490)
+- Stable Diffusion web UI
+	- [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers)
+	- [How on earth can I install xformers?](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/9802)
+	- [AssertionError: Torch not compiled with CUDA enabled](https://github.com/pytorch/pytorch/issues/30664)
+	- [Troubleshooting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting)
+	- [CUDA](https://developer.nvidia.com/cuda-toolkit)
+- Whisper Webui
+	- [Segmentation Fault when loading pyannote/speaker-diarization-3.0 in rockylinux9/python3 environment](https://github.com/pyannote/pyannote-audio/issues/1499)

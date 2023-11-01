@@ -1,0 +1,36 @@
+- Windows 10 `%HOME%` `C:\Users\%USERNAME%"`
+	- `%APPDATA%` `%HOME%\AppData\Roaming`
+	- `%LOCALAPPDATA%` `%HOME%\AppData\Local`
+- scoop `$scoopdir` `%HOME%\scoop`
+	- `$bucketsdir` `$scoopdir\buckets`
+	- `$dir` `$scoopdir\apps\$app\current`
+	- `$persist_dir` `$scoopdir\persist\$app`
+- Cmder `%CMDER_ROOT%` `$dir`
+	- Starship `%CMDER_ROOT%\vendor\clink\starship.lua`
+	- Starship `%CMDER_ROOT%\config\starship.toml`
+- pnpm `%PNPM_HOME%` `%LOCALAPPDATA%\pnpm`
+- pip `$HOME\.config\pip\pip.conf`
+- pip `%HOME%\pip.ini`
+- Rust `%HOME%\.cargo\config`
+- vim `%HOME%\.vimrc`
+	- vim-plug `$app\autoload\plug.vim`
+	- vim-plug `%LOCALAPPDATA%\nvim\init.vim`
+	- vim-plug `%LOCALAPPDATA%\nvim-data\site\autoload\plug.vim`
+	- neovim `$HOME\.config\nvim`
+	- neovim `$HOME\.local\share\nvim`
+	- neovim `%LOCALAPPDATA%\nvim`
+	- neovim `%LOCALAPPDATA%\nvim-data`
+	- packer.nvim `%LOCALAPPDATA%\nvim\lua\lsp\plugins.lua`
+	- packer.nvim `%LOCALAPPDATA%\nvim-data\site\autoload\pack\packer\start\packer.nvim`
+	- gvim `%HOME%\.gvimrc`
+	- lua `%LOCALAPPDATA%\nvim\lua\lsp\lua.lua`
+- Alacritty `$persist_dir\alacritty.yml`
+- mpv `$app\portable_config\input.conf`
+- zeal `$persist_dir\docsets`
+- tealdeer `$dir\cache\tldr-pages`
+- Lazygit `%APPDATA%\lazygit\config.yml`
+- qutebrower `%APPDATA%\qutebrowser\config`
+- buku `%APPDATA%\bukubrow` `%HOME%\.local\share\buku`
+-
+- Termux
+	- LunarVim `~\.local\share\lunarvim`

@@ -1,0 +1,110 @@
+- @clamp.cmd
+	- [Public Domain art preparation: monochrome](https://vladar.bearblog.dev/public-domain-art-preparation-monochrome/)
+	- [Public Domain art preparation: in color](https://vladar.bearblog.dev/public-domain-art-preparation-in-color/)
+- @font
+	- [Creating fonts from Public Domain reference](https://vladar.bearblog.dev/creating-fonts-from-public-domain-reference/)
+	- [Creating font subsets](https://markoskon.com/creating-font-subsets/)
+- @karaok
+	- [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
+- Arch
+	- [xplr](https://github.com/sayanarijit/xplr)
+	- [Arch Linux - 中文输入法](https://zhuanlan.zhihu.com/p/393746270)
+	- [Bluetooth headset connection occasionally fails: br-connection-page-timeout](https://www.reddit.com/r/archlinux/comments/qnffce/bluetooth_headset_connection_occasionally_fails/)
+	- [How to Set up Bluetooth in Arch Linux](https://www.jeremymorgan.com/tutorials/linux/how-to-bluetooth-arch-linux/)
+	- [A guide to install xfce on arch linux](https://www.reddit.com/r/xfce/comments/s8h0h8/a_guide_to_install_xfce_on_arch_linux/)
+	- [Arch Linux 安装后该做什么？Arch Linux 使用指南与推荐配置](https://zhuanlan.zhihu.com/p/568981775)
+	- [Arch Linux 详细安装教程，萌新再也不怕了！](https://zhuanlan.zhihu.com/p/596227524)
+- Archivebox
+	- [Publishing Your Archive](https://docs.archivebox.io/en/master/Publishing-Your-Archive.html)
+- AutoHotkey
+	- [Change the default AutoHotkey script editor](https://blog.danskingdom.com/Change-the-default-AutoHotkey-script-editor/)
+	- [how to start a script "suspended"](https://www.autohotkey.com/boards/viewtopic.php?t=104032)
+- Broot
+	- [Keyboard key](https://dystroy.org/broot/conf_verbs/#keyboard-key)
+	- [edit a text file](https://dystroy.org/broot/file-operations/#edit-a-text-file)
+- Cmder
+	- [Make your terminal look Swag with MSYS2 and ZSH](https://dev.to/shrihankp/make-your-terminal-look-swag-with-msys2-and-zsh-32b7)
+	- [How to install Z shell (zsh) on Cygwin](https://medium.com/@alllexsm/how-to-install-z-shell-zsh-on-cygwin-dd9ee380d783)
+	- [Installing ZSH on Windows](https://dev.to/zinox9/installing-zsh-on-windows-37em)
+	- [Integrating Cygwin](http://github.com/cmderdev/cmder/wiki/Integrating-Cygwin)
+	- [set PATH with multiple lines](https://stackoverflow.com/questions/40909459/set-path-with-multiple-lines)
+- Everything
+	- [Tools Options Exclude "Exclude files" *.tmp :: not working ??](https://www.voidtools.com/forum/viewtopic.php?t=11617)
+- F-Droid
+	- [添加国内源和存储库](https://sspai.com/post/63647)
+	- [Mirror Monitor](http://gitlab.com/fdroid/mirror-monitor)
+- GoldenDict
+	- [Add Honyakusha to GoldenDict](https://github.com/souk4711/honyakusha/tree/main/examples/goldendict)
+	- [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/)
+- GPT
+	- [How to use OpenAI's API to implement simple conversations with AI](https://zhuanlan.zhihu.com/p/633140041)
+- Handbrake
+	- [How to reduce video file size using Handbrake](http://steamcommunity.com/sharedfiles/filedetails/?id=1856527757)
+- ImageMagick
+	- [Recommendation for compressing JPG files with ImageMagick](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick)
+- Jupyter
+	- [Using Virtual Environments in Jupyter Notebook and Python](https://janakiev.com/blog/jupyter-virtual-envs/)
+- LanguageTool
+	- [Anyone self-hosting languagetool?](https://www.reddit.com/r/selfhosted/comments/ksvmii/anyone_selfhosting_languagetool/)
+- LaTeX
+	- [LaTeX tables: Basics](https://vladar.bearblog.dev/latex-tables-basics/)
+	- [LaTeX page geometry and layout](https://vladar.bearblog.dev/latex-page-geometry-and-layout/)
+	- [LaTeX: text spacing and decoration](https://vladar.bearblog.dev/latex-text-spacing-and-decoration/)
+	- [LaTeX and its fancy fonts](https://vladar.bearblog.dev/latex-and-its-fancy-fonts/)
+	- [LaTeX document structure](https://vladar.bearblog.dev/latex-document-structure/)
+	- [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
+	- [LaTeX tables: Advanced features](https://vladar.bearblog.dev/latex-tables-advanced-features/)
+- Lintalist
+	- [Interactive bundle text](https://lintalist.github.io/#InteractiveBundleText)
+	- [Lintalist MultiCaret support](https://github.com/lintalist/lintalist/blob/master/docs/MultiCaret.md)
+- Logseq
+	- [change the font globally](https://github.com/logseq/logseq/discussions/7478)
+	- [How to insert a [[page]] with text different from file's title?](https://www.reddit.com/r/logseq/comments/x2umld/how_to_insert_a_page_with_text_different_from/)
+	- [如何自动发布 obsidian 库或 logseq 库为网站](https://zhuanlan.zhihu.com/p/526053556)
+- MkDocs
+	- [Embedding external files](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#embedding-external-files)
+	- [Pymdown extensions dependency issue](https://github.com/squidfunk/mkdocs-material/issues/5526)
+	- [Import table from file](https://squidfunk.github.io/mkdocs-material/reference/data-tables/#import-table-from-file)
+- Notion
+	- [Github Actions 自动备份 Notion 空间](https://zuolan.me/notion-backup)
+- EPUB.js
+	- [Le TeXtallion](http://anamnese.online.fr/site2/textallion/docs/presentation.html) by [farvardin](https://github.com/farvardin) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+	- [Alice in Wonderland](https://www.gutenberg.org/ebooks/11) by Lewis Carroll / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
+	- [Alice in Wonderland (illustrate)](https://www.gutenberg.org/ebooks/28885) by Lewis Carroll (illustrator by Arthur Rackham, proem by Austin Dobson) / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
+	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
+- Qemu
+	- [Install with Qemu Script](https://github.com/BlissRoms-x86/docs/blob/master/install-bliss-os/install-in-a-virtual-machine/install-in-qemu.md)
+- starfetch
+	- [Altair](https://en.wikipedia.org/wiki/Altair)
+	- [Declination](https://en.wikipedia.org/wiki/Declination)
+	- [Deneb](https://en.wikipedia.org/wiki/Deneb)
+	- [Right_ascension](https://en.wikipedia.org/wiki/Right_ascension)
+	- [Square_degree](https://en.wikipedia.org/wiki/Square_degree)
+	- [Vega](https://en.wikipedia.org/wiki/Vega)
+- Sublime Text
+	- [Sublime Text: How to Open Files in the Same Window (New Tab)](https://woorkup.com/sublime-text-open-files-same-window/)
+- syncabook
+	- [syncabook](https://github.com/r4victor/syncabook)
+	- [afaligner](https://github.com/r4victor/afaligner)
+	- [Installing and using Aeneas](https://lingtran.net/Installing-and-using-Aeneas)
+	- [synclibrivox](https://github.com/r4victor/synclibrivox)
+- Termux
+	- [Termux 高级终端安装使用配置教程](https://www.sqlsec.com/2018/05/termux.html)
+	- [Build older python package - 3.9](https://github.com/termux/termux-packages/discussions/9498)
+	- ✅ [vncviewer](https://tigervnc.org/doc/vncviewer.html)
+	- ✅ [Graphical Environment](https://wiki.termux.com/wiki/Graphical_Environment)
+	- ✅ [Text Input View](https://wiki.termux.com/wiki/Touch_Keyboard#Text_Input_View)
+	- [copy and paste using Ctrl-C Ctrl-V or right click menu](https://github.com/termux/termux-app/issues/1891)
+	- [Can I hide this keyboard? I have a physical one attached](https://www.reddit.com/r/termux/comments/qaenv5/can_i_hide_this_keyboard_i_have_a_physical_one)
+	- ✅ [Termux is not FHS compliant](https://wiki.termux.com/wiki/Differences_from_Linux#Termux_is_not_FHS_compliant)
+	- [Change Username in Termux](https://www.reddit.com/r/termux/comments/vyqo7i/change_username_in_termux)
+- uTools
+	- [[插件][文本处理]按照自己的方式处理文本](https://yuanliao.info/d/4174/3)
+- Wallpaper Engine
+	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
+- Yomichan
+	- [How Do I Make A Yomichan Dictionary?](https://github.com/MarvNC/yomichan-dictionaries/blob/master/how-to-make-yomichan-dictionaries.md)
+- ZeroTier
+	- [ZeroTier network controller UI](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui)
+	- [Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
+	- [Zerotier Fix](https://github.com/kaaass/ZerotierFix)

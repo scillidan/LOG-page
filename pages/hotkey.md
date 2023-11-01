@@ -1,0 +1,102 @@
+- Arch
+	- `C-A-F2` Open_Console
+- AutoHotKey
+	- `W-A-Arrows` @SnapX Window_Snap
+	- `A-Etr` @Lintalist Command_Cheatsheet
+	- `W-f` @CL3 Convert_Input
+	- `W-S-s` @Vis2 ocr
+	- ♻ `W-Num` @desktop.ahk
+	- ♻ `W-S-Num` @desktop.ahk
+- Chrome
+	- `C-l` search
+	- `C-S-b` Toggle_Bookmark_Bar
+	- `ContextMenu` @MarkDownload
+	- `ContextMenu` @immersive-translate
+	- `ContextMenu` @Read_Later
+	- `A-S-f` @Chikamichi_Search_Anything
+	- `A-S-q` @QuicKey Search_Tabs
+	- `A-S-y` @Yomichan E-Directory
+	- `A-S-e` @Emoji_Keyboard
+	- `A-S-l` @linkding_extension
+	- `A-h` @Hypothesis
+	- `C` `Etr` @Imagus Preview_Image
+	- `A-S-t` @Smart_TOC
+	- `A-S-d` @@Dark_Reader
+	- `A-S-o` @Open_Multiple_URLs
+	- `A-p` @Tab_to_Window/Popup
+	- `C-Drag` @Table_range_select_and_copy
+- Cmder
+	- `A-h` @clink help
+	- `Tab` @clink complete
+	- `C-Spc` @clink-fzf complete
+	- `C-r` @clink-fzf history
+	- `A-c` @clink-fzf subdirectory
+	- `C-t` @clink-fzf file
+	- `C-PgUP` @clink-gizmos/z_dir_popup.lua
+	- `C-A-PgUp` @clink-gizmos/cwdhistory.lua
+	- `i {dir} {command}` @clink-gizmos/i.lua
+	- `C-→` `C-→` @broot Preview
+	- `:ol` / `O` @broot Open
+	- `:e` / `E` @broot Edit
+	- `c/$text` @broot filter
+	- `A-Etr` @tere Go
+- DeskPins
+	- `C-F12` toggle
+- Directory Opus
+	- `C-S-w` Close_Tab
+	- `C-S-c` Copy_Path
+	- `A-S-v` thumbnail
+	- `left_drag` copy
+	- `S-left_drag` @FastCopy move
+	- `right_drag` @FastCopy copy
+	- `right_drag` @Link_Shell_Extension Create_Symlink
+	- `A-left_double_click` @SmartZip decompress
+	- `F2` @Extended_functionality_for_F2 rename
+- EverythingToolbar
+	- `W-A-s` Toggle_EverythingToolbar
+- Fluent Reader
+	- `S-b` Open_In_Browser
+- GoldenDict-ng
+	- `A-z` Translate_Pasteboard
+	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
+	- `A-S-g` Toggle_GoldenDict-ng
+- Keypirinha`
+	- `W-C-k` Toggle_Keypirinha
+	- `F2` Open_Console
+- LunarVim
+	- `C-\` @toggleterm.nvim terminal
+- mpv
+	- `?` @mpv-cheatsheet Show_Cheatsheet
+- Neovim
+	- `C-w` `w` window
+	- `%` @paint mode
+	- `$key` @which-key.nvim keymap
+	- `\?` @cheatsheet.nvim cheatsheet
+	- `\ff` @telescope.nvim search
+	- `\cd` @telescope-zoxide jump
+	- `:$number` @numb.nvim select
+	- `s` @leap.nvim select
+- NiftyWindows
+	- `W-Esc` Toggle_NiftyWindows
+- Obsidian
+	- `C-left_clink` @Obsidian_Tabs
+- QuiteRSS
+	- `C-o` Open_In_Browser
+- RenPy
+	- `R` Autoreload
+	- `F4` Image_Load_Log
+- Sublime Text
+	- `C-S-p` Open_Console
+	- `C-Del` Delete_Rext_Word
+	- `C-Bksp` Delete_Rrew_Word
+	- `C-S-j` Delete_Break
+	- `Command Palette` @TrailingSpaces delete
+	- `Command Palette` @DeleteBlankLines delete
+	- `S-Spc` @UnicodeMath
+	- `C-S-a-n` @InsertNums 1:1~02
+- SystemTrayMenu
+	- `W-S-q` Toggle_SystemTrayMenu
+- Tabby
+	- `C-S-r` @quick-restart
+	- `C-S-Arrows` New_Window
+	- `C-S-w` Close_Window
