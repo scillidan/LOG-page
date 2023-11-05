@@ -1,6 +1,7 @@
 - Arch
 	- `C-A-F2` Open_Console
 - AutoHotKey
+	- `A-t` @TSolidBackground
 	- `W-A-Arrows` @SnapX Window_Snap
 	- `A-Etr` @Lintalist Command_Cheatsheet
 	- `W-f` @CL3 Convert_Input
@@ -60,7 +61,7 @@
 	- `A-z` Translate_Pasteboard
 	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
 	- `A-S-g` Toggle_GoldenDict-ng
-- Keypirinha`
+- Keypirinha
 	- `W-C-k` Toggle_Keypirinha
 	- `F2` Open_Console
 - LunarVim
@@ -87,13 +88,32 @@
 	- `F4` Image_Load_Log
 - Sublime Text
 	- `C-S-p` Open_Console
-	- `C-Del` Delete_Rext_Word
+	- `C-Del` Delete_Next_Word
 	- `C-Bksp` Delete_Rrew_Word
 	- `C-S-j` Delete_Break
+	- `C-f` Find `A-f` Toggle_In_Seletion `A-r` Toggle_Regular_Expression
+	- `A-S-p` Switch_Project
+	- `Command Palette` @PackagesUI List_Package
+	- `Command Palette` @FindKeyConflicts find
+	- `Command Palette` @FindCursor find
 	- `Command Palette` @TrailingSpaces delete
 	- `Command Palette` @DeleteBlankLines delete
-	- `S-Spc` @UnicodeMath
-	- `C-S-a-n` @InsertNums 1:1~02
+	- `Command Palette` @FilterPipes convert
+	- `Command Palette` @Keymaps convert
+	- `Command Palette` @ChineseOpenConvert(ChineseConvert) convert
+	- `Command Palette` @ConvertFullHalfWidth convert
+	- `Command Palette` @SortBy
+	- `Command Palette` @Calculate
+	- `Command Palette` @StyleLint-Formatter lint
+	- `Menu` @Minify
+	- `C-k` `C-p` @Simple_Fuzzy Search_Project
+	- `C-A-p` @ProjectManager  @Open_Project_In_New_Window
+	- `C-k` `C-Arrows/C-S-Arrow` @Origami
+	- `C-k` `C-S-t` @Terminus Open_Terminal_Panel `A-w` Toggle_Terminal_Panel `A-S-w` Close_Terminal
+	- `C-S-z` @DashDoc Search_In_Zeal
+	- `C-S-a-n` `1:1~02` @InsertNums
+	- `:\emoji` `\_char` `\math` @UnicodeMath
+	- `A-Spc` @TextMarker Toggle_Select_Highlight
 - SystemTrayMenu
 	- `W-S-q` Toggle_SystemTrayMenu
 - Tabby

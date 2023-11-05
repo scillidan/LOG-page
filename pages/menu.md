@@ -24,6 +24,12 @@
 	- 复制图层 → 选中新图层 → 颜色 → 去色 → 去色 → 模式 → luma
 	- 添加图层模板 → 选区工具 → 填充黑色
 	- 模式 → 点光/叠加/色相
+- HiBit Uninstaller
+	- 工具 → 垃圾文件清理程序 → 忽略列表 → 右键 → 添加文件夹
+		- `C:\Users\yourname\AppData\Roaming\fnm\node-versions`
+		- `C:\ProgramData\pm2\home`
+	- 工具 → 空文件夹清理程序 → 忽略列表 → 右键 → 添加文件夹
+		- `your-postgres-database/`
 - IrfanView
 	- 按住左键拖拽 → `S-ArrowKey` → `A-ArrowKey` → `C-y`剪裁
 	- `F12`
@@ -35,15 +41,13 @@
 	- 设置 → 壁纸 → 壁纸输入 → 键盘 → 应用聚焦时的鼠标交互
 - Logseq
 	- 设置 → 常规 → 自定义快捷键 → 块编辑基本
+- NEAV1E
+	- 设置 → 路径 → 默认输出位置() → 保存并退出
+	- 设置 → 更新器
 - QtScrcpy
 	- 手机 → 设置 → 连接 → WLAN → 当前网络 → IP地址
 	- 手机 → 设置 → 关于手机 → 版本号(x7)
 	- 系统 → 开发者选项 → USB调试(On) → 网络ADB调试(On) → 无线调试(On) → 是否允许USB调试(确定) →  一律允许使用这台计算机进行调试(允许)
-- HiBit Uninstaller
-	- 工具 → 垃圾文件清理程序 → 忽略列表 → 右键 → 添加文件夹
-		- `C:\Users\scillidan\AppData\Roaming\fnm\node-versions`
-	- 工具 → 空文件夹清理程序 → 忽略列表 → 右键 → 添加文件夹
-		- `your-postgres-database/`
 - Wallpaper Engine #.ol
 	- 新建 ... 关闭
 	- 编辑 → 在资源管理器中打开 → .json
@@ -74,3 +78,5 @@
 		- 管理Windows防火墙规则 → 创建新规则 → 新增空白规则 ... 此程序 → 浏览名称 → 方向 → 出站
 	- 资源管理器
 		- 查看 → 选项 → 打开文件资源管理器时打开(此电脑) → 在"快速访问"中显示常用文件夹(Off)
+	- 自动播放CD或其他媒体
+		- 可移动驱动器 → 不执行操作

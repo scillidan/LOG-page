@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["annotate" "cache_readme" "environment" "hotkey" "menu" "open-with" "playground" "reference" "troubleshoot" "readme-cache" "todo" "done"]
+ :favorites ["annotate" "cache_log" "cache_readme" "cat" "environment" "hotkey" "menu" "open-with" "playground" "reference" "troubleshoot" "readme-cache" "todo" "done"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -6,6 +6,8 @@
 	- [Creating font subsets](https://markoskon.com/creating-font-subsets/)
 - @karaok
 	- [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
+- 7z
+	- [7Zip - Command Line : Exclude folder(s) by wildcard pattern?](https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern)
 - Arch
 	- [xplr](https://github.com/sayanarijit/xplr)
 	- [Arch Linux - 中文输入法](https://zhuanlan.zhihu.com/p/393746270)
@@ -74,6 +76,8 @@
 	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
 - Qemu
 	- [Install with Qemu Script](https://github.com/BlissRoms-x86/docs/blob/master/install-bliss-os/install-in-a-virtual-machine/install-in-qemu.md)
+- Stable Diffusion web UI
+	- [Command Line Arguments and Settings](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings)
 - starfetch
 	- [Altair](https://en.wikipedia.org/wiki/Altair)
 	- [Declination](https://en.wikipedia.org/wiki/Declination)
@@ -102,6 +106,10 @@
 	- [[插件][文本处理]按照自己的方式处理文本](https://yuanliao.info/d/4174/3)
 - Wallpaper Engine
 	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
+- faster-whisper-webui
+	- [Running Locally](https://huggingface.co/spaces/aadnk/faster-whisper-webui/blob/main/README.md#running-locally)
+	- [Enabling custom Japanese model](https://huggingface.co/spaces/aadnk/faster-whisper-webui/discussions/5)
+	- [services.py](https://github.com/usoonees/logseq-whisper-subtitles-server/blob/main/logseq_whisper_subtitles_server/services.py)
 - Yomichan
 	- [How Do I Make A Yomichan Dictionary?](https://github.com/MarvNC/yomichan-dictionaries/blob/master/how-to-make-yomichan-dictionaries.md)
 - ZeroTier

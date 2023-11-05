@@ -60,58 +60,25 @@
 	  cd ./aom-windows-build
 	  cmake --build .
 	  ```
-- faster-whisper-webui
-  collapsed:: true
-	- ```sh
-	  git clone https://github.com/Cerlancism/faster-whisper-webui
-	  cd faster-whisper-webui
-	  ```
-	  
-	  Edit `requirements-fasterWhisper.txt`:
-	  
-	  ```sh
-	  torch==2.0.1
-	  torchaudio==2.0.2
-	  pyannote.audio==3.0.1
-	  ```
-	  
-	  ```sh
-	  python310 -m venv venv
-	  venv\Scripts\activate.bat
-	  pip install -r requirements-fasterWhisper.txt
-	  pip install torch===2.0.1 torchaudio===2.0.2 pyannote.audio===3.0.1 -f https://download.pytorch.org/whl/torch_stable.html
-	  ```
-	  
-	  ```sh
-	  python cli.py --whisper_implementation faster-whisper --vad silero-vad --auto_parallel true --vad_parallel_devices 0 --model large-v2 --language Chinese --initial_prompt "以下是普通話的句子。" --diarization_num_speakers 1 --output_dir D:\home ^|
-	  ```
-	  
-	  如果你要使用本地模型，使用这个仓库，并按说明配置。
-	  
-	  先试运行`cli.py`，将下载对应的模型。之后可以使用`app.py`
-	  
-	  ```json
-	  {
-	    "input_audio_max_duration": 600, // -1
-	    "server_port": 7860, // 7830
-	    "whisper_implementation": "whisper", //  "faster-whisper"
-	    "default_model_name": "medium", // "large-v2"
-	    "vad_parallel_devices": "", // "0"
-	    "auto_parallel": false, // true
-	    "output_dir": null, // "D:/home"
-	    "language": null, // "Chinese"
-	  }
-	  ```
-	  
-	  ```sh
-	  python app.py --initial_prompt "以下是普通話的句子。"
-	  ```
 - Jupyter
+  collapsed:: true
 	- ```sh
 	  pip install --user ipykernel
 	  ipython kernel install
 	  jupyter-lab
 	  ```
+- Keyprinha
+	- tldr
+		- ```sh
+		  scoop install tldr
+		  tldr -c
+		  ```
+		  
+		  Create symbolic link from `C:\Users\yourname\AppData\Roaming\tldr\pages.en` to `C:\Users\yourname\.cache\tldr\pages.en`
+	- PuzzTools
+		- ```sh
+		  7z a PuzzTools.zip ./* -x!.git/ && mv PuzzTools.zip ...C:/Users/yourname/scoop/persist/keypirinha/portable/Profile/InstalledPackages/PuzzTools.keypirinha-package
+		  ```
 - komga
 	- ```sh
 	  for /d %%X in (*) do arenc.exe -e "v01.aren" -t folders -p . -m rename
