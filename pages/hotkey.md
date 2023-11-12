@@ -1,6 +1,10 @@
+- Alacritty
+	- `C-d` exit
 - Arch
 	- `C-A-F2` Open_Console
 - AutoHotKey
+	- `C-A-o` @GoldenDictOCR Toggle_Ocr
+	- `C-A-g` @GoldenDictOCR Toggle_Select
 	- `A-t` @TSolidBackground
 	- `W-A-Arrows` @SnapX Window_Snap
 	- `A-Etr` @Lintalist Command_Cheatsheet
@@ -56,11 +60,14 @@
 - EverythingToolbar
 	- `W-A-s` Toggle_EverythingToolbar
 - Fluent Reader
-	- `S-b` Open_In_Browser
+	- `b` Open_In_Browser
+	- `h` Hide_This_Post
 - GoldenDict-ng
 	- `A-z` Translate_Pasteboard
-	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
 	- `A-S-g` Toggle_GoldenDict-ng
+	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
+	- `A-Left/Right` Show_Previous/Next_Founded_Results
+	- `C-S-f` Full_Text_Search
 - Keypirinha
 	- `W-C-k` Toggle_Keypirinha
 	- `F2` Open_Console
@@ -79,6 +86,8 @@
 	- `s` @leap.nvim select
 - NiftyWindows
 	- `W-Esc` Toggle_NiftyWindows
+- Notion
+	- `C-S-k`search
 - Obsidian
 	- `C-left_clink` @Obsidian_Tabs
 - QuiteRSS
@@ -115,8 +124,14 @@
 	- `:\emoji` `\_char` `\math` @UnicodeMath
 	- `A-Spc` @TextMarker Toggle_Select_Highlight
 - SystemTrayMenu
-	- `W-S-q` Toggle_SystemTrayMenu
+	- `C-W` Toggle_SystemTrayMenu
 - Tabby
 	- `C-S-r` @quick-restart
 	- `C-S-Arrows` New_Window
 	- `C-S-w` Close_Window
+- ugrep
+	- `C-q` exit
+- Umi-OCR
+	- `W-S-s`
+- Windows Terminal Preview
+	- `C-S-w` exit

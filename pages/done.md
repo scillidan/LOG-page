@@ -1,3 +1,4 @@
+- 202311 , Keypirinha
 - 202310 `e-dict.md`, Archive Manga, GoldenDict-ng, Test whisper-webui, Re-Write, Logseq, NOTION-table(windows...)
 - 202309 Logseq, NOTION-table(renpy...), `mpv-lrc.md`, `mpv-lrc-edit.md`
 - 202308 Material-for-MkDocs, AutoHotKey(Lintalist...), PM2-demo(reference, excalith-start-page...), JS-demo, Keypirinha-Zealous, fontsource, NOTION-table

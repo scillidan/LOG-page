@@ -4,6 +4,7 @@
 - @font
 	- [Creating fonts from Public Domain reference](https://vladar.bearblog.dev/creating-fonts-from-public-domain-reference/)
 	- [Creating font subsets](https://markoskon.com/creating-font-subsets/)
+	- [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)
 - @karaok
 	- [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
 - 7z
@@ -16,8 +17,6 @@
 	- [A guide to install xfce on arch linux](https://www.reddit.com/r/xfce/comments/s8h0h8/a_guide_to_install_xfce_on_arch_linux/)
 	- [Arch Linux 安装后该做什么？Arch Linux 使用指南与推荐配置](https://zhuanlan.zhihu.com/p/568981775)
 	- [Arch Linux 详细安装教程，萌新再也不怕了！](https://zhuanlan.zhihu.com/p/596227524)
-- Archivebox
-	- [Publishing Your Archive](https://docs.archivebox.io/en/master/Publishing-Your-Archive.html)
 - AutoHotkey
 	- [Change the default AutoHotkey script editor](https://blog.danskingdom.com/Change-the-default-AutoHotkey-script-editor/)
 	- [how to start a script "suspended"](https://www.autohotkey.com/boards/viewtopic.php?t=104032)
@@ -30,14 +29,20 @@
 	- [Installing ZSH on Windows](https://dev.to/zinox9/installing-zsh-on-windows-37em)
 	- [Integrating Cygwin](http://github.com/cmderdev/cmder/wiki/Integrating-Cygwin)
 	- [set PATH with multiple lines](https://stackoverflow.com/questions/40909459/set-path-with-multiple-lines)
+- EPUB.js
+	- [Le TeXtallion](http://anamnese.online.fr/site2/textallion/docs/presentation.html) by [farvardin](https://github.com/farvardin) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
+	- [Alice in Wonderland](https://www.gutenberg.org/ebooks/11) by Lewis Carroll / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
+	- [Alice in Wonderland (illustrate)](https://www.gutenberg.org/ebooks/28885) by Lewis Carroll (illustrator by Arthur Rackham, proem by Austin Dobson) / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
+	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
 - Everything
 	- [Tools Options Exclude "Exclude files" *.tmp :: not working ??](https://www.voidtools.com/forum/viewtopic.php?t=11617)
 - F-Droid
 	- [添加国内源和存储库](https://sspai.com/post/63647)
 	- [Mirror Monitor](http://gitlab.com/fdroid/mirror-monitor)
 - GoldenDict
-	- [Add Honyakusha to GoldenDict](https://github.com/souk4711/honyakusha/tree/main/examples/goldendict)
-	- [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/)
+	- [About Popup Window Size](https://github.com/goldendict/goldendict/issues/1010)
+	- [Customize Dictionary](https://xiaoyifang.github.io/goldendict-ng/custom_dictionary/)
+	- [auto_abbr](https://github.com/LemuriaChen/auto_abbr)
 - GPT
 	- [How to use OpenAI's API to implement simple conversations with AI](https://zhuanlan.zhihu.com/p/633140041)
 - Handbrake
@@ -46,8 +51,6 @@
 	- [Recommendation for compressing JPG files with ImageMagick](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick)
 - Jupyter
 	- [Using Virtual Environments in Jupyter Notebook and Python](https://janakiev.com/blog/jupyter-virtual-envs/)
-- LanguageTool
-	- [Anyone self-hosting languagetool?](https://www.reddit.com/r/selfhosted/comments/ksvmii/anyone_selfhosting_languagetool/)
 - LaTeX
 	- [LaTeX tables: Basics](https://vladar.bearblog.dev/latex-tables-basics/)
 	- [LaTeX page geometry and layout](https://vladar.bearblog.dev/latex-page-geometry-and-layout/)
@@ -69,15 +72,10 @@
 	- [Import table from file](https://squidfunk.github.io/mkdocs-material/reference/data-tables/#import-table-from-file)
 - Notion
 	- [Github Actions 自动备份 Notion 空间](https://zuolan.me/notion-backup)
-- EPUB.js
-	- [Le TeXtallion](http://anamnese.online.fr/site2/textallion/docs/presentation.html) by [farvardin](https://github.com/farvardin) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)
-	- [Alice in Wonderland](https://www.gutenberg.org/ebooks/11) by Lewis Carroll / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
-	- [Alice in Wonderland (illustrate)](https://www.gutenberg.org/ebooks/28885) by Lewis Carroll (illustrator by Arthur Rackham, proem by Austin Dobson) / [PDM](https://creativecommons.org/publicdomain/mark/1.0)
-	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
+- Python
+	- [How to set environment variables in Python?](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
 - Qemu
 	- [Install with Qemu Script](https://github.com/BlissRoms-x86/docs/blob/master/install-bliss-os/install-in-a-virtual-machine/install-in-qemu.md)
-- Stable Diffusion web UI
-	- [Command Line Arguments and Settings](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings)
 - starfetch
 	- [Altair](https://en.wikipedia.org/wiki/Altair)
 	- [Declination](https://en.wikipedia.org/wiki/Declination)
@@ -106,13 +104,13 @@
 	- [[插件][文本处理]按照自己的方式处理文本](https://yuanliao.info/d/4174/3)
 - Wallpaper Engine
 	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
-- faster-whisper-webui
-	- [Running Locally](https://huggingface.co/spaces/aadnk/faster-whisper-webui/blob/main/README.md#running-locally)
-	- [Enabling custom Japanese model](https://huggingface.co/spaces/aadnk/faster-whisper-webui/discussions/5)
-	- [services.py](https://github.com/usoonees/logseq-whisper-subtitles-server/blob/main/logseq_whisper_subtitles_server/services.py)
 - Yomichan
 	- [How Do I Make A Yomichan Dictionary?](https://github.com/MarvNC/yomichan-dictionaries/blob/master/how-to-make-yomichan-dictionaries.md)
 - ZeroTier
 	- [ZeroTier network controller UI](https://hub.docker.com/r/mdplusplus/zerotier-network-controller-ui)
 	- [Start containers automatically](https://docs.docker.com/config/containers/start-containers-automatically/)
 	- [Zerotier Fix](https://github.com/kaaass/ZerotierFix)
+- Zim
+	- [zim wiki](https://matterofti.me/tools/zim-wiki)
+	- [Plugins](https://github.com/jaap-karssenberg/zim-wiki/wiki/Plugins)
+	- [ZeroFiveEight_mono_ToC_navbar_left](https://github.com/jaap-karssenberg/zim-wiki/wiki/Templates#zerofiveeight_mono_toc_navbar_left)

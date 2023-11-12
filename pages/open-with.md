@@ -1,4 +1,4 @@
-- `.jpg` JPEGView, IrfanView
+- `.jpg` JPEGView-fork, IrfanView
 - `.psd` IrfanView
 - `.svg` qView
 - `.gif` mpv
