@@ -56,6 +56,8 @@
 - pipenv
 	- ```sh
 	  pip install --user pipenv
+	  cd folder
+	  python setup.py install
 	  ```
 - raphael-impress
 	- ![🖼 Snipaste_2022-01-23_20-55-18.png](../assets/Snipaste_2022-01-23_20-55-18.png){:width 300,:height 120}

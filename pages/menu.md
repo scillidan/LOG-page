@@ -34,6 +34,8 @@
 	- 按住左键拖拽 → `S-ArrowKey` → `A-ArrowKey` → `C-y`剪裁
 	- `F12`
 	- `C-s`保存
+- JPEGView
+	- 右键 → 设定/管理 → 编辑用户设置  → 修改`ShowFullScreen=auto`的值为`false`
 - KMSpico
 	- PowerShell → `Set-MpPreference -DisableRealtimeMonitoring $true`
 	- Windows安全中心 → 病毒和威胁防护 → "病毒和威胁防护"设置 → 管理设置 → 实时保护(Off) → 云提供的保护(Off) → 自动提交样本(Off) → 篡改保护(Off)
@@ -53,6 +55,12 @@
 	- 编辑 → 在资源管理器中打开 → .json
 	- 文件 → 打开最近的项目 → .json
 	- 创意工坊 → 在创意工坊上分享壁纸 → 预览图片 → 导入文件 → 发布更新 → 关闭
+- WSL
+	- 启用或关闭Windows功能 → Hyper-V, 用于Linux的Windows子系统
+	- PowerShell(管理员) → `wsl --list --online` → `wsl --install -d Ubuntu-22.04` → `wsl -l -v` → `wsl --set-version Ubuntu-22.04 2` → `wsl --shutdown`
+	- `wsl` → `sudo apt update && sudo apt upgrade`
+	- `sudo apt install wget curl git`
+	-
 - Windows
 	- 账户
 		- 账户 → 跳过、不勾选、不联网、不填写密码

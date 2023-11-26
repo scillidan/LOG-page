@@ -13,5 +13,9 @@
 	- [AssertionError: Torch not compiled with CUDA enabled](https://github.com/pytorch/pytorch/issues/30664)
 	- [Troubleshooting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting)
 	- [CUDA](https://developer.nvidia.com/cuda-toolkit)
+- SilverDict
+	- [[Bug]: Lxml](https://github.com/termux/termux-packages/issues/18552)
+- Termux
+	- [apt-get update fails to fetch files, “Temporary failure resolving …” error](https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error)
 - Whisper Webui
 	- [Segmentation Fault when loading pyannote/speaker-diarization-3.0 in rockylinux9/python3 environment](https://github.com/pyannote/pyannote-audio/issues/1499)

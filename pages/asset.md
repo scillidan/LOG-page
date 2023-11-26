@@ -1,3 +1,7 @@
+- ActivityWatch
+	- [Watchers](https://docs.activitywatch.net/en/latest/watchers.html)
+- Aard 2
+	- [slob - Dictionaries](https://github.com/itkach/slob/wiki/Dictionaries#ecdict-english-chinese-dictionary)
 - GoldenDict
 	- [Mdict](https://mdict.org/)
 	- [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/) → 汉语大词典(简体精排).mdx、漢語大詞典.mdx
@@ -9,3 +13,6 @@
 	- [Pronunciation audio](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#pronunciation-audio)
 	- [pronunciations](https://github.com/yousefvand/pronunciations)
 	- [Hunspell dictionaries](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#hunspell-dictionaries)
+- Termux
+	- [Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) - [robbyrussellx](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussellx)
+	- [External themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) - [alien-minimal](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes#alien-minimal)

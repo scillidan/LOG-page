@@ -3,15 +3,19 @@
 - Arch
 	- `C-A-F2` Open_Console
 - AutoHotKey
+	- `C-W-d` New_Virtual_Desktop
+	- `C-W-Left/Right` switch
+	- 🐞 `W-S-Num` @desktop.ahk
+	- 🐞 `W-Num` @desktop.ahk
+	- `W-A-Arrows` @SnapX Window_Snap
+	- `C-S-A-k` @AutoHotkey Keyboard Locker
+	- `W-A-l` @Lintalist
+	- `A-Etr` @Lintalist Command_Cheatsheet
 	- `C-A-o` @GoldenDictOCR Toggle_Ocr
 	- `C-A-g` @GoldenDictOCR Toggle_Select
-	- `A-t` @TSolidBackground
-	- `W-A-Arrows` @SnapX Window_Snap
-	- `A-Etr` @Lintalist Command_Cheatsheet
 	- `W-f` @CL3 Convert_Input
 	- `W-S-s` @Vis2 ocr
-	- ♻ `W-Num` @desktop.ahk
-	- ♻ `W-S-Num` @desktop.ahk
+	- `A-t` @TSolidBackground
 - Chrome
 	- `C-l` search
 	- `C-S-b` Toggle_Bookmark_Bar
@@ -129,9 +133,13 @@
 	- `C-S-r` @quick-restart
 	- `C-S-Arrows` New_Window
 	- `C-S-w` Close_Window
+- Termux
+	- `C-A-v` paste
+	- `bindkey`
 - ugrep
 	- `C-q` exit
 - Umi-OCR
 	- `W-S-s`
 - Windows Terminal Preview
 	- `C-S-w` exit
+	- `C-Del` Delete_A_Word

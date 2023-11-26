@@ -41,6 +41,7 @@
 	- [Mirror Monitor](http://gitlab.com/fdroid/mirror-monitor)
 - GoldenDict
 	- [About Popup Window Size](https://github.com/goldendict/goldendict/issues/1010)
+	- [Goldendict in Portable mode disallows adding dictionaries search paths, relevant config file edits are discarded.](https://github.com/goldendict/goldendict/issues/1560)
 	- [Customize Dictionary](https://xiaoyifang.github.io/goldendict-ng/custom_dictionary/)
 	- [auto_abbr](https://github.com/LemuriaChen/auto_abbr)
 - GPT
@@ -59,6 +60,7 @@
 	- [LaTeX document structure](https://vladar.bearblog.dev/latex-document-structure/)
 	- [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 	- [LaTeX tables: Advanced features](https://vladar.bearblog.dev/latex-tables-advanced-features/)
+	- [LaTeX images | Vladar's Blog](https://vladar.bearblog.dev/latex-images/)
 - Lintalist
 	- [Interactive bundle text](https://lintalist.github.io/#InteractiveBundleText)
 	- [Lintalist MultiCaret support](https://github.com/lintalist/lintalist/blob/master/docs/MultiCaret.md)
@@ -66,6 +68,8 @@
 	- [change the font globally](https://github.com/logseq/logseq/discussions/7478)
 	- [How to insert a [[page]] with text different from file's title?](https://www.reddit.com/r/logseq/comments/x2umld/how_to_insert_a_page_with_text_different_from/)
 	- [如何自动发布 obsidian 库或 logseq 库为网站](https://zhuanlan.zhihu.com/p/526053556)
+- ImageMagick
+	- [Help with using ImageMagick for Montage + Command Line (updated question in comment)](https://github.com/ImageMagick/ImageMagick/discussions/3022)
 - MkDocs
 	- [Embedding external files](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#embedding-external-files)
 	- [Pymdown extensions dependency issue](https://github.com/squidfunk/mkdocs-material/issues/5526)
@@ -76,6 +80,11 @@
 	- [How to set environment variables in Python?](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
 - Qemu
 	- [Install with Qemu Script](https://github.com/BlissRoms-x86/docs/blob/master/install-bliss-os/install-in-a-virtual-machine/install-in-qemu.md)
+- Rime
+	- [自由输入法 RIME 简明配置指南](https://sspai.com/post/84373)
+	- [weasel_dev.md](https://github.com/expoli/rime-config/blob/ac4bde493fc66325d2228381b71db1e6943cd9c2/weasel_dev.md)
+	- [symbols.yaml](https://github.com/rime/rime-prelude/blob/master/symbols.yaml)
+	- [雾凇拼音](https://github.com/iDvel/rime-ice)
 - starfetch
 	- [Altair](https://en.wikipedia.org/wiki/Altair)
 	- [Declination](https://en.wikipedia.org/wiki/Declination)
@@ -90,20 +99,38 @@
 	- [afaligner](https://github.com/r4victor/afaligner)
 	- [Installing and using Aeneas](https://lingtran.net/Installing-and-using-Aeneas)
 	- [synclibrivox](https://github.com/r4victor/synclibrivox)
+- SilverDict
+	- [Running SilverDict on Android](https://github.com/Crissium/SilverDict/wiki/android)
 - Termux
-	- [Termux 高级终端安装使用配置教程](https://www.sqlsec.com/2018/05/termux.html)
-	- [Build older python package - 3.9](https://github.com/termux/termux-packages/discussions/9498)
-	- ✅ [vncviewer](https://tigervnc.org/doc/vncviewer.html)
-	- ✅ [Graphical Environment](https://wiki.termux.com/wiki/Graphical_Environment)
-	- ✅ [Text Input View](https://wiki.termux.com/wiki/Touch_Keyboard#Text_Input_View)
-	- [copy and paste using Ctrl-C Ctrl-V or right click menu](https://github.com/termux/termux-app/issues/1891)
-	- [Can I hide this keyboard? I have a physical one attached](https://www.reddit.com/r/termux/comments/qaenv5/can_i_hide_this_keyboard_i_have_a_physical_one)
+	- [Termux Style](https://github.com/adi1090x/termux-style)
+	- [Termux-setup-storage](https://wiki.termux.com/wiki/Termux-setup-storage)
 	- ✅ [Termux is not FHS compliant](https://wiki.termux.com/wiki/Differences_from_Linux#Termux_is_not_FHS_compliant)
+	- [Can I hide this keyboard? I have a physical one attached](https://www.reddit.com/r/termux/comments/qaenv5/can_i_hide_this_keyboard_i_have_a_physical_one)
 	- [Change Username in Termux](https://www.reddit.com/r/termux/comments/vyqo7i/change_username_in_termux)
+	- [copy and paste using Ctrl-C Ctrl-V or right click menu](https://github.com/termux/termux-app/issues/1891)
+	- ✅ [Text Input View](https://wiki.termux.com/wiki/Touch_Keyboard#Text_Input_View)
+	- [ZSH](https://wiki.termux.com/wiki/ZSH)
+	- [Disabling the up-arrow key rebinding?](https://github.com/atuinsh/atuin/issues/51#issuecomment-1641211422)
+	- [LunarVim](https://www.lunarvim.org/)
+	- [Installation](https://www.lunarvim.org/docs/installation)
+	- [Install a Nerd Font](https://www.lunarvim.org/docs/installation/post-install#install-a-nerd-font)
+	- [[Info] How to setup nerd font in order to work lsd properly in Termux(Android).](https://github.com/lsd-rs/lsd/issues/423)
+	- [Downloads](https://www.nerdfonts.com/font-downloads)
+	- [Build older python package - 3.9](https://github.com/termux/termux-packages/discussions/9498)
+	- ✅ [Graphical Environment](https://wiki.termux.com/wiki/Graphical_Environment)
+	- ✅ [vncviewer](https://tigervnc.org/doc/vncviewer.html)
+	- [Termux 高级终端安装使用配置教程](https://www.sqlsec.com/2018/05/termux.html)
+- TTS
+	- [TTS](https://github.com/coqui-ai/TTS)
+	- [How can I run Mozilla TTS/Coqui TTS training with CUDA on a Windows system?](https://stackoverflow.com/questions/66726331/how-can-i-run-mozilla-tts-coqui-tts-training-with-cuda-on-a-windows-system)
 - uTools
 	- [[插件][文本处理]按照自己的方式处理文本](https://yuanliao.info/d/4174/3)
 - Wallpaper Engine
 	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
+- WSL
+	- [Ubuntu on WSL](https://ubuntu.com/wsl)
+	- [Unregister or uninstall a Linux distribution](https://learn.microsoft.com/en-us/windows/wsl/basic-commands#unregister-or-uninstall-a-linux-distribution)
+	- [How to Install Python 3.9 on Ubuntu 22.04](https://vegastack.com/tutorials/how-to-install-python-3-9-on-ubuntu-22-04/)
 - Yomichan
 	- [How Do I Make A Yomichan Dictionary?](https://github.com/MarvNC/yomichan-dictionaries/blob/master/how-to-make-yomichan-dictionaries.md)
 - ZeroTier
