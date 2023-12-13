@@ -8,6 +8,10 @@
 	- Windows Explorer → 缩略图(On) → 清空
 - Chrome
 	- `chrome://flags/#enable-parallel-downloading` → Parallel downloading → Enabled
+	- floccus bookmarks sync
+		- 打开 ... 新建账户 → WebDav分享 → WebDAV URL(`https://dav.jianguoyun.com/dav`), 用户名(注册[坚果云](https://www.jianguoyun.com)用的电子邮箱), 密码 ... → 服务器详细信息/书签路径(`floccus/bookmarks.xbel`), 文件夹映射/本地文件夹(`/书签栏/`), 同步间隔(1d), 套账户(在其他帐户同步中包括此帐户的本地)文件夹 → 保存
+			- ↔ 坚果云 → 用户 → 账户信息 → 安全选项 → 添加应用(`floccus`) → 生成密码 → 复制 → 完成
+		- 打开 ... WEBDAV(坚果云) → 行为(推送) → 自动同步(On)
 - clawPDF
 	- PDF阅读器 → 打印 → clawPDF → 属性 → 页面设置 → 方向(横向) → 确定 → 缩放类型(每张纸多页面) → 每张页面数(2)
 - CUETools

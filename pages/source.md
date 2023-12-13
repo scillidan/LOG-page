@@ -1,0 +1,80 @@
+- @font
+  id:: 6573dc55-7b81-4063-9aa3-79b03d1ee909
+	- [pyftsubset](https://github.com/web-wyj/pyftsubset) [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)
+	- [齊伋體](https://github.com/LingDong-/qiji-font) [剔骨仿宋](https://github.com/LingDong-/tk-fangsong-font)
+- js
+	- [mdBook](https://github.com/rust-lang/mdBook)
+		- [mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
+		- [Aquamarine](https://github.com/mersinvald/aquamarine)
+		- [MDBook Link-Check](https://github.com/Michael-F-Bryan/mdbook-linkcheck)
+		- [MDBook EPUB Backend](https://github.com/Michael-F-Bryan/mdbook-epub)
+	- [Retype](https://retype.com/)
+		- [Retype Build Action](https://github.com/retypeapp/action-build)
+	- [Vivliostyle](https://vivliostyle.org/)
+		- [Vivliostyle.js Releases](https://vivliostyle.github.io/)
+		- [hugo-theme-vivliocli](https://github.com/mochimochiki/hugo-theme-vivliocli)
+	- [Sphinx](https://www.sphinx-doc.org)
+		- [Read the Docs Sphinx Theme](https://github.com/readthedocs/sphinx_rtd_theme)
+		- [recommonmark](ttps://github.com/readthedocs/recommonmark)
+		- [Read the Docs](https://readthedocs.org)
+	- [MkDocs](https://www.mkdocs.org/)
+		- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- opt
+	- ActivityWatch
+		- [Watchers](https://docs.activitywatch.net/en/latest/watchers.html)
+	- [GoldenDict](http://goldendict.org/) / [GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng) [x] [OmegaT](https://omegat.org/)
+		- [GoldenDict Windows Full Dark Theme](https://github.com/yozhic/GoldenDict-Full-Dark-Theme)
+		- [Mdict](https://mdict.org/) [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/)(汉语大词典(简体精排).mdx 漢語大詞典.mdx) [Online Etymology Dictionary](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E5%85%B1%E4%BA%AB2020.5.11/content/1_english/z_Grammar_others/Online%20Etymology%20Dictionary/) [简明英汉字典增强版#css-版本](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88#css-%E7%89%88%E6%9C%AC) [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)([English-Chinese Names](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Names%20Corpus/English-Chinese%20Names) [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20(Stroke%20animations)) [Latin dictionaries](https://latin-dict.github.io/)(拉丁语和古希腊语词典) [proteusx](https://github.com/proteusx)
+		- [English Spell Checker Dictionaries](http://wordlist.aspell.net/dicts/) [Hunspell dictionaries](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#hunspell-dictionaries) [Hunspell](https://latin-dict.github.io/docs/hunspell.html) [x] [Dictionaries](https://github.com/titoBouzout/Dictionaries) [dictionaries](https://github.com/wooorm/dictionaries)(古希腊语)
+		- [Pronunciation audio](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#pronunciation-audio) [pronunciations](https://github.com/yousefvand/pronunciations)
+		- [Content in all languages](https://wiki.kiwix.org/wiki/Content_in_all_languages)
+		- [tencent-translate-for-goldendict](https://github.com/LexsionLee/tencent-translate-for-goldendict) [thes](https://github.com/grantshandy/thes) [DidYouMean](https://github.com/hisbaan/didyoumean) [x]  [DeepL X](https://github.com/OwO-Network/DeepLX) [GoldenDict tools](https://github.com/Ajatt-Tools/gd-tools) [auto_abbr](https://github.com/LemuriaChen/auto_abbr) ↔ [zdic-cli](https://github.com/LingDong-/zdic-cli)
+		- [MDict Tool](https://github.com/liuyug/mdict-utils)
+	- Keyprinha
+		- [汉字拼音转换工具](https://github.com/mozillazg/python-pinyin) [Go OpenCC](https://github.com/razonyang/gopencc) [anyascii](https://github.com/anyascii/anyascii) [text-transform-cli](https://github.com/maxlath/text-transform-cli) [x] [Python Slugify](https://github.com/un33k/python-slugify) [abbreviate](https://github.com/dnnrly/abbreviate) [Vapyrwave](https://github.com/jonesmartins/vapyrwave) [uwuify](https://github.com/Daniel-Liu-c0deb0t/uwu) [sttr](https://github.com/abhimanyu003/sttr)
+		- [colorpedia](https://github.com/joowani/colorpedia) [pastel](https://github.com/sharkdp/pastel)
+	- mpv
+		- [mpv-lrc](https://git.sr.ht/~guidocella/mpv-lrc)
+	- Whisper
+		- [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
+		- [Insanely Fast Whisper (CLI)](https://github.com/ochen1/insanely-fast-whisper-cli)
+- sh
+	- Cmder
+		- cd [x] [tere](https://github.com/mgunyho/tere)
+		- touch [feel](https://github.com/jbr/feel) [fsutil](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/windows-commands/fsutil.md)
+		- mkdir [Mkdirs](https://github.com/dolanor/mkdirs)([ki-cli-hyphen](https://github.com/scillidan/ki-cli-hyphen))
+		- [trash](https://github.com/sindresorhus/recycle-bin) [x] rm
+		- [echo-cli](https://github.com/iamakulov/echo-cli) [x] echo
+		- cat [x] [gat](https://github.com/koki-develop/gat) [rich](https://github.com/Textualize/rich) [ccat](https://github.com/owenthereal/ccat) [treecat](https://github.com/Knio/treecat) [tailspin](https://github.com/bensadeh/tailspin)
+		- [less](https://www.greenwoodsoftware.com/less/) [x] [peep](https://github.com/ryochack/peep) [mdr](https://github.com/MichaelMure/mdr) [Textual Markdown Browser](https://github.com/willmcgugan/textual-markdown) [epy](https://github.com/wustho/epy) [epr](https://github.com/wustho/epr) [Glow](https://github.com/charmbracelet/glow) [reader](https://github.com/mrusme/reader)
+		- [erdtree](https://github.com/solidiquis/erdtree) [x] [tree](https://gnuwin32.sourceforge.net/packages/tree.htm) [tree](https://github.com/a8m/tree) [tre](https://github.com/dduan/tre) [untree](https://github.com/codeinred/untree) ↔ [treesize](https://www.jam-software.com/treesize_free)
+		- [x] du [dust](https://github.com/bootandy/dust) [dua](https://github.com/Byron/dua-cli) [gdu](https://github.com/dundee/gdu) [duf](https://github.com/muesli/duf) [lsdsk](https://github.com/rasa/lsdsk)
+		- clip [x] [uclip](https://github.com/suzusime/uclip)
+		- [x] tar [7z](https://www.7-zip.org)
+		- [broot](https://dystroy.org/broot/) [x] [lf](https://github.com/gokcehan/lf)
+	- Lintalist
+		- [gocash](https://github.com/basebandit/gocash)
+		- [cook](https://github.com/glitchedgitz/cook)
+	- Vim
+		- [x] [goldendict.vim](https://github.com/jiazhoulvke/goldendict.vim)
+		- [vim-epub](https://github.com/vim-scripts/Vim-EPUB) [x] [Zim Desktop Wiki plugin for Vim](https://github.com/jakykong/vim-zim)
+		- [x] [vimGPT](https://github.com/ishan0102/vimGPT)
+		- [x] [vmn](https://github.com/Dudemanguy/vmn)
+	- Nvim
+		- [x] [nvim-zh](https://github.com/noearc/nvim-zh) [rime-ls](https://github.com/wlh320/rime-ls) [Dead Simple Pinyin Language Server](https://github.com/iamcco/ds-pinyin-lsp) [cmp-rime](https://github.com/Ninlives/cmp-rime) [Skkeleton](https://github.com/vim-skk/skkeleton)
+		- [x] [translate.nvim](https://github.com/uga-rosa/translate.nvim) [vim-translator](https://github.com/voldikss/vim-translator)
+		- [x] [telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim)
+	- [LunarVim](https://github.com/LunarVim/LunarVim)
+		- [Multicursors.nvim](https://github.com/smoka7/multicursors.nvim)
+		- [vim-visual-multi](https://github.com/mg979/vim-visual-multi)
+	- Termux
+		- [Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) - [robbyrussellx](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussellx)
+		- [External themes](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes) - [alien-minimal](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes#alien-minimal)
+		- [Extensions / useful scripts](https://github.com/cmus/cmus/wiki/#extensions--useful-scripts) - [cmus-lyrics](https://github.com/hakerdefo/cmus-lyrics)
+	- ubuntu/windows
+		- tere [x] [lsx](https://github.com/souvikinator/lsx) [kn](https://github.com/micouy/kn)
+		- [bat](https://github.com/sharkdp/bat)
+		- [trash](https://github.com/andreafrancia/trash-cli)
+		- [unzip](https://infozip.sourceforge.net)
+		- broot [xplr](https://github.com/sayanarijit/xplr)
+		- [cmus](https://cmus.github.io/) [termusic](https://github.com/tramhao/termusic) [gomu](https://github.com/issadarkthing/gomu) [tuijam](https://github.com/cfangmeier/tuijam) [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) [YouTerm](https://github.com/marcoradocchia/youterm) [bum](https://github.com/dylanaraps/bum) [pimp](https://github.com/speguero/pimp)([rpmp](https://github.com/speguero/rpmp))

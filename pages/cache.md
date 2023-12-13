@@ -1,0 +1,6 @@
+- android
+	- [Universal Android Debloater GUI](//github.com/0x192/universal-android-debloater) #cleaner
+	- [File Manager Plus](https://www.alphainventor.com/file-manager-plus) #explorer
+	- [DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) #backup
+	- [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) #game
+	- Aard 2 - [slob - Dictionaries](https://github.com/itkach/slob/wiki/Dictionaries#ecdict-english-chinese-dictionary)

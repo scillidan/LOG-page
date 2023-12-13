@@ -7,24 +7,27 @@
 	- `C-W-Left/Right` switch
 	- 🐞 `W-S-Num` @desktop.ahk
 	- 🐞 `W-Num` @desktop.ahk
-	- `W-A-Arrows` @SnapX Window_Snap
+	- ↔ `W-A-Arrows` @RectangleWin
 	- `C-S-A-k` @AutoHotkey Keyboard Locker
 	- `W-A-l` @Lintalist
 	- `A-Etr` @Lintalist Command_Cheatsheet
 	- `C-A-o` @GoldenDictOCR Toggle_Ocr
 	- `C-A-g` @GoldenDictOCR Toggle_Select
+	- `W-c` @ShortScript
 	- `W-f` @CL3 Convert_Input
-	- `W-S-s` @Vis2 ocr
+	- ↔ `W-S-s` Uni-OCR
 	- `A-t` @TSolidBackground
+	- `A-`` @AltBacktick
+	  id:: 6570813c-b353-4e5c-a3f5-2e21e22bc9ae
 - Chrome
 	- `C-l` search
 	- `C-S-b` Toggle_Bookmark_Bar
 	- `ContextMenu` @MarkDownload
 	- `ContextMenu` @immersive-translate
 	- `ContextMenu` @Read_Later
-	- `A-S-f` @Chikamichi_Search_Anything
+	- `A-f` @Chikamichi_Search_Anything
 	- `A-S-q` @QuicKey Search_Tabs
-	- `A-S-y` @Yomichan E-Directory
+	- `A-S-y` @Yomichan E-DirectoryS
 	- `A-S-e` @Emoji_Keyboard
 	- `A-S-l` @linkding_extension
 	- `A-h` @Hypothesis
@@ -33,6 +36,7 @@
 	- `A-S-d` @@Dark_Reader
 	- `A-S-o` @Open_Multiple_URLs
 	- `A-p` @Tab_to_Window/Popup
+	- `A-S-f` @Open_in_Firefox
 	- `C-Drag` @Table_range_select_and_copy
 - Cmder
 	- `A-h` @clink help
@@ -49,6 +53,10 @@
 	- `:e` / `E` @broot Edit
 	- `c/$text` @broot filter
 	- `A-Etr` @tere Go
+- Cmus
+	- `c` Pause_Playback `v` Stop_Playback
+	- `-` `+` Reduce/Increase_The_Volume
+	- `/` Search
 - DeskPins
 	- `C-F12` toggle
 - Directory Opus
@@ -67,8 +75,11 @@
 	- `b` Open_In_Browser
 	- `h` Hide_This_Post
 - GoldenDict-ng
-	- `A-z` Translate_Pasteboard
+	- `C-c-c` Translate_Pasteboard
+	- `C-l` focus
 	- `A-S-g` Toggle_GoldenDict-ng
+	  id:: 65410518-dd64-43aa-a476-cd9fc364a164
+	- `A-g` Pick_Dictionary
 	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
 	- `A-Left/Right` Show_Previous/Next_Founded_Results
 	- `C-S-f` Full_Text_Search
@@ -140,6 +151,27 @@
 	- `C-q` exit
 - Umi-OCR
 	- `W-S-s`
+- Vim
+	- `EscEsc` Back_To_Normal_Mode
+	- `i` Enter_Insert_Mode
+	- `R` Enter_Peplace_Mode
+	- `:` Enter_Command-line_Mode
+	- `:w` Save `:wq` / `x` / `ZZ` Save_And_Quit
+	- `d` Delete_Selection `dw` Delete_To_Next_Word `dd` Delete_Line(Cut) `3dd` Delete_3_Lines
+	- `y` Yank_Seletion(Copy) `yy` Yank_Line `3yy` Yank_3_Lines
+	- `p` Paste `P` Paste_Before
+	- `vip` Select_Paragraph `vipipip` Selete_More
+	- `<` `>` Indent_Left/Right `=` Autoindent
+	- `gg` / `G` First/Last_Line
+	- `:3` / `3G` Go_To_Line_3
+	- `0` Start_Of_line
+	- `ge` `e` Previous/Next_End_Of_Line
+	- `b` `w` Previous/Next_Word
+	- `h` `j` `k` `l` Arrow_Keys
+	- `g~` Swap_Case `gU` Uppercase `gu` Lowercase
+- Wim
+	- `Maps` Show_Keymap
+	- `C-Left/Right` Switch_Tab
 - Windows Terminal Preview
 	- `C-S-w` exit
 	- `C-Del` Delete_A_Word

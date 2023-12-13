@@ -4,13 +4,11 @@
 - @font
 	- [Creating fonts from Public Domain reference](https://vladar.bearblog.dev/creating-fonts-from-public-domain-reference/)
 	- [Creating font subsets](https://markoskon.com/creating-font-subsets/)
-	- [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)
 - @karaok
 	- [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
 - 7z
 	- [7Zip - Command Line : Exclude folder(s) by wildcard pattern?](https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern)
 - Arch
-	- [xplr](https://github.com/sayanarijit/xplr)
 	- [Arch Linux - 中文输入法](https://zhuanlan.zhihu.com/p/393746270)
 	- [Bluetooth headset connection occasionally fails: br-connection-page-timeout](https://www.reddit.com/r/archlinux/comments/qnffce/bluetooth_headset_connection_occasionally_fails/)
 	- [How to Set up Bluetooth in Arch Linux](https://www.jeremymorgan.com/tutorials/linux/how-to-bluetooth-arch-linux/)
@@ -36,17 +34,20 @@
 	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
 - Everything
 	- [Tools Options Exclude "Exclude files" *.tmp :: not working ??](https://www.voidtools.com/forum/viewtopic.php?t=11617)
+- Fontsource
+	- [Contributing to Fontsource](https://github.com/fontsource/font-files/blob/main/CONTRIBUTING.md)
 - F-Droid
 	- [添加国内源和存储库](https://sspai.com/post/63647)
 	- [Mirror Monitor](http://gitlab.com/fdroid/mirror-monitor)
+- GCC
+	- [How to Install GCC Compiler on Ubuntu](https://phoenixnap.com/kb/install-gcc-ubuntu)
 - GoldenDict
-	- [About Popup Window Size](https://github.com/goldendict/goldendict/issues/1010)
 	- [Goldendict in Portable mode disallows adding dictionaries search paths, relevant config file edits are discarded.](https://github.com/goldendict/goldendict/issues/1560)
+	- [About Popup Window Size](https://github.com/goldendict/goldendict/issues/1010)
 	- [Customize Dictionary](https://xiaoyifang.github.io/goldendict-ng/custom_dictionary/)
-	- [auto_abbr](https://github.com/LemuriaChen/auto_abbr)
 - GPT
 	- [How to use OpenAI's API to implement simple conversations with AI](https://zhuanlan.zhihu.com/p/633140041)
-- Handbrake
+- Handbrake]
 	- [How to reduce video file size using Handbrake](http://steamcommunity.com/sharedfiles/filedetails/?id=1856527757)
 - ImageMagick
 	- [Recommendation for compressing JPG files with ImageMagick](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick)
@@ -68,8 +69,15 @@
 	- [change the font globally](https://github.com/logseq/logseq/discussions/7478)
 	- [How to insert a [[page]] with text different from file's title?](https://www.reddit.com/r/logseq/comments/x2umld/how_to_insert_a_page_with_text_different_from/)
 	- [如何自动发布 obsidian 库或 logseq 库为网站](https://zhuanlan.zhihu.com/p/526053556)
+- LunarVim
+	- [Keybinds overview](https://www.lunarvim.org/docs/beginners-guide/keybinds-overvie)
 - ImageMagick
 	- [Help with using ImageMagick for Montage + Command Line (updated question in comment)](https://github.com/ImageMagick/ImageMagick/discussions/3022)
+- Marker
+	- [The way to install VikParuchuri/marker on Windows 10.](https://github.com/VikParuchuri/marker/issues/12)
+- Miniflux
+	- [miniflux-with-nginx](https://blog.chestnut.monster/posts/miniflux-with-nginx/)
+	- [一文搞定RSS！从搭建、使用到自建订阅源。](https://zhuanlan.zhihu.com/p/659275676?utm_id=0)
 - MkDocs
 	- [Embedding external files](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#embedding-external-files)
 	- [Pymdown extensions dependency issue](https://github.com/squidfunk/mkdocs-material/issues/5526)
@@ -85,6 +93,14 @@
 	- [weasel_dev.md](https://github.com/expoli/rime-config/blob/ac4bde493fc66325d2228381b71db1e6943cd9c2/weasel_dev.md)
 	- [symbols.yaml](https://github.com/rime/rime-prelude/blob/master/symbols.yaml)
 	- [雾凇拼音](https://github.com/iDvel/rime-ice)
+	- [Rime English輸入方案](https://github.com/sdadonkey/rime-english)
+	- [rime-easy-en](https://github.com/BlindingDark/rime-easy-en)
+	- [Rime-Lua-GoogleTranslate](https://github.com/JACKCHAN000/Rime-Lua-GoogleTranslate)
+- Scoop
+	- [scoop cleanup removes all versions of app.](https://github.com/ScoopInstaller/Scoop/issues/2666)
+	- [Safely relocate existing scoop installation directory?](https://github.com/ScoopInstaller/Scoop/issues/3852)
+- Simple Icons
+	- [Contributing to Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md)
 - starfetch
 	- [Altair](https://en.wikipedia.org/wiki/Altair)
 	- [Declination](https://en.wikipedia.org/wiki/Declination)
@@ -101,9 +117,13 @@
 	- [synclibrivox](https://github.com/r4victor/synclibrivox)
 - SilverDict
 	- [Running SilverDict on Android](https://github.com/Crissium/SilverDict/wiki/android)
+- Steam
+	- [Setting up a game server: games and technical requirements guide](https://blog.ishosting.com/en/how-to-make-your-own-gaming-server/)
 - Termux
-	- [Termux Style](https://github.com/adi1090x/termux-style)
+	- [Touch Keyboard](https://wiki.termux.com/wiki/Touch_Keyboard)
 	- [Termux-setup-storage](https://wiki.termux.com/wiki/Termux-setup-storage)
+	- [Internal and external storage](https://wiki.termux.com/wiki/Internal_and_external_storage)
+	- [Termux Style](https://github.com/adi1090x/termux-style)
 	- ✅ [Termux is not FHS compliant](https://wiki.termux.com/wiki/Differences_from_Linux#Termux_is_not_FHS_compliant)
 	- [Can I hide this keyboard? I have a physical one attached](https://www.reddit.com/r/termux/comments/qaenv5/can_i_hide_this_keyboard_i_have_a_physical_one)
 	- [Change Username in Termux](https://www.reddit.com/r/termux/comments/vyqo7i/change_username_in_termux)
@@ -116,10 +136,13 @@
 	- [Install a Nerd Font](https://www.lunarvim.org/docs/installation/post-install#install-a-nerd-font)
 	- [[Info] How to setup nerd font in order to work lsd properly in Termux(Android).](https://github.com/lsd-rs/lsd/issues/423)
 	- [Downloads](https://www.nerdfonts.com/font-downloads)
+	- [Installation](https://zellij.dev/documentation/installation)
+	- [Launching movie playback via "am start"](https://stackoverflow.com/questions/8207548/launching-movie-playback-via-am-start)
 	- [Build older python package - 3.9](https://github.com/termux/termux-packages/discussions/9498)
 	- ✅ [Graphical Environment](https://wiki.termux.com/wiki/Graphical_Environment)
 	- ✅ [vncviewer](https://tigervnc.org/doc/vncviewer.html)
 	- [Termux 高级终端安装使用配置教程](https://www.sqlsec.com/2018/05/termux.html)
+	- [手機檔案管理器如何存取Termux的內部目錄](https://ivonblog.com/posts/access-termux-directory/)
 - TTS
 	- [TTS](https://github.com/coqui-ai/TTS)
 	- [How can I run Mozilla TTS/Coqui TTS training with CUDA on a Windows system?](https://stackoverflow.com/questions/66726331/how-can-i-run-mozilla-tts-coqui-tts-training-with-cuda-on-a-windows-system)
@@ -127,6 +150,8 @@
 	- [[插件][文本处理]按照自己的方式处理文本](https://yuanliao.info/d/4174/3)
 - Wallpaper Engine
 	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
+- Windows
+	- [What are some apps/tools to make the windows experience better?](https://www.reddit.com/r/Windows11/comments/15lhpe1/what_are_some_appstools_to_make_the_windows/)
 - WSL
 	- [Ubuntu on WSL](https://ubuntu.com/wsl)
 	- [Unregister or uninstall a Linux distribution](https://learn.microsoft.com/en-us/windows/wsl/basic-commands#unregister-or-uninstall-a-linux-distribution)

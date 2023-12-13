@@ -1,12 +1,17 @@
+- @font
+	- [UTF-8 下控制台中中文（包括 CJK 字符）的场宽与对齐](https://chariri.moe/archives/392/utf8-cjk-width-alignment/)
 - audiobookshelf
 	- [[Bug]: Error: Cannot find module './dev' when built from source](https://github.com/advplyr/audiobookshelf/issues/1954)
 	  [Vue packages version mismatch](https://github.com/nuxt/nuxt/issues/10305)
 - fontTools
 	- ["WARNING: FFTM NOT subset; don't know how to subset; dropped"](https://github.com/filamentgroup/glyphhanger/issues/56)
+- GoldenDict-ng
+	- [List issues fixed in this repo while not in official repo](https://github.com/xiaoyifang/goldendict-ng/issues/587)
 - imagepy
 	- [Issue while training: AttributeError: module 'numpy' has no attribute 'int'](https://github.com/WongKinYiu/yolov7/issues/1280#issuecomment-1360917977)
 - Nuxt
 	- [how to modify nuxt server start port ,default port is 3000](https://github.com/nuxt/nuxt/issues/490)
+- [UnicodeEncodeError when redirecting Python output on Windows](https://isaacong.me/posts/unicodeencodeerror-when-redirecting-python-output/)
 - Stable Diffusion web UI
 	- [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers)
 	- [How on earth can I install xformers?](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/9802)
@@ -17,5 +22,7 @@
 	- [[Bug]: Lxml](https://github.com/termux/termux-packages/issues/18552)
 - Termux
 	- [apt-get update fails to fetch files, “Temporary failure resolving …” error](https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error)
+	- [cargo install: specify a /tmp substitute?](https://stackoverflow.com/questions/64572901/cargo-install-specify-a-tmp-substitute/64616981#64616981)
+	- [Can not install on android - target 'aarch64-linux-android' not found in channel.](https://github.com/rust-lang/rustup/issues/2872)
 - Whisper Webui
 	- [Segmentation Fault when loading pyannote/speaker-diarization-3.0 in rockylinux9/python3 environment](https://github.com/pyannote/pyannote-audio/issues/1499)
