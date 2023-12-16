@@ -22,6 +22,7 @@
 	- [Keyboard key](https://dystroy.org/broot/conf_verbs/#keyboard-key)
 	- [edit a text file](https://dystroy.org/broot/file-operations/#edit-a-text-file)
 - Cmder
+	- [Shortcut to open Cmder in a chosen folder](https://github.com/cmderdev/cmder#shortcut-to-open-cmder-in-a-chosen-folder)
 	- [Make your terminal look Swag with MSYS2 and ZSH](https://dev.to/shrihankp/make-your-terminal-look-swag-with-msys2-and-zsh-32b7)
 	- [How to install Z shell (zsh) on Cygwin](https://medium.com/@alllexsm/how-to-install-z-shell-zsh-on-cygwin-dd9ee380d783)
 	- [Installing ZSH on Windows](https://dev.to/zinox9/installing-zsh-on-windows-37em)
@@ -98,6 +99,7 @@
 	- [Rime-Lua-GoogleTranslate](https://github.com/JACKCHAN000/Rime-Lua-GoogleTranslate)
 - Scoop
 	- [scoop cleanup removes all versions of app.](https://github.com/ScoopInstaller/Scoop/issues/2666)
+	- [change install directory?](https://github.com/ScoopInstaller/Scoop/issues/249)
 	- [Safely relocate existing scoop installation directory?](https://github.com/ScoopInstaller/Scoop/issues/3852)
 - Simple Icons
 	- [Contributing to Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md)
@@ -152,6 +154,7 @@
 	- [更新丢失的项目](http://help.wallpaperengine.io/zh/functionality/editingwallpapers.html#%E6%9B%B4%E6%96%B0%E4%B8%A2%E5%A4%B1%E7%9A%84%E9%A1%B9%E7%9B%AE)
 - Windows
 	- [What are some apps/tools to make the windows experience better?](https://www.reddit.com/r/Windows11/comments/15lhpe1/what_are_some_appstools_to_make_the_windows/)
+	- [windows修改用户名 C:\Users用户文件夹名称 把中文名修改为英文名，专业版和家庭和学生版都适用](https://zhuanlan.zhihu.com/p/509804656)
 - WSL
 	- [Ubuntu on WSL](https://ubuntu.com/wsl)
 	- [Unregister or uninstall a Linux distribution](https://learn.microsoft.com/en-us/windows/wsl/basic-commands#unregister-or-uninstall-a-linux-distribution)

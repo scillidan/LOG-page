@@ -25,6 +25,7 @@
 	- gvim `%HOME%\.gvimrc`
 	- lua `%LOCALAPPDATA%\nvim\lua\lsp\lua.lua`
 - Alacritty `$persist_dir\alacritty.yml`
+- pm2 `PM2_HOME` `C:\ProgramData\pm2\home`
 - mpv `$app\portable_config\input.conf`
 - zeal `$persist_dir\docsets`
 - tealdeer `$dir\cache\tldr-pages`

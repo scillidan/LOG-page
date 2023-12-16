@@ -151,3 +151,5 @@
 	        syncabook sync _synclibrivox\books\_little_prince
 	        syncabook create thebook
 	    ```
+- Zellij
+	- `zellij-aarch64-unknown-linux-musl.tar.gz`

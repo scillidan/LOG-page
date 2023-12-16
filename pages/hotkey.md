@@ -5,8 +5,7 @@
 - AutoHotKey
 	- `C-W-d` New_Virtual_Desktop
 	- `C-W-Left/Right` switch
-	- 🐞 `W-S-Num` @desktop.ahk
-	- 🐞 `W-Num` @desktop.ahk
+	- 🐞 `W-S-Num` @desktop.ahk `W-Num` @desktop.ahk
 	- ↔ `W-A-Arrows` @RectangleWin
 	- `C-S-A-k` @AutoHotkey Keyboard Locker
 	- `W-A-l` @Lintalist
@@ -14,11 +13,10 @@
 	- `C-A-o` @GoldenDictOCR Toggle_Ocr
 	- `C-A-g` @GoldenDictOCR Toggle_Select
 	- `W-c` @ShortScript
-	- `W-f` @CL3 Convert_Input
+	- ♻ `W-f` @CL3 Convert_Input
 	- ↔ `W-S-s` Uni-OCR
-	- `A-t` @TSolidBackground
-	- `A-`` @AltBacktick
-	  id:: 6570813c-b353-4e5c-a3f5-2e21e22bc9ae
+	- `A-Backquote` @AltBacktick
+	- ♻ `A-t` @TSolidBackground
 - Chrome
 	- `C-l` search
 	- `C-S-b` Toggle_Bookmark_Bar
@@ -117,6 +115,7 @@
 	- `C-S-j` Delete_Break
 	- `C-f` Find `A-f` Toggle_In_Seletion `A-r` Toggle_Regular_Expression
 	- `A-S-p` Switch_Project
+	- `C-A-p` @ProjectManager Open_Project_In_New_Window
 	- `Command Palette` @PackagesUI List_Package
 	- `Command Palette` @FindKeyConflicts find
 	- `Command Palette` @FindCursor find
@@ -131,7 +130,6 @@
 	- `Command Palette` @StyleLint-Formatter lint
 	- `Menu` @Minify
 	- `C-k` `C-p` @Simple_Fuzzy Search_Project
-	- `C-A-p` @ProjectManager  @Open_Project_In_New_Window
 	- `C-k` `C-Arrows/C-S-Arrow` @Origami
 	- `C-k` `C-S-t` @Terminus Open_Terminal_Panel `A-w` Toggle_Terminal_Panel `A-S-w` Close_Terminal
 	- `C-S-z` @DashDoc Search_In_Zeal

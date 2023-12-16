@@ -3,6 +3,8 @@
 - audiobookshelf
 	- [[Bug]: Error: Cannot find module './dev' when built from source](https://github.com/advplyr/audiobookshelf/issues/1954)
 	  [Vue packages version mismatch](https://github.com/nuxt/nuxt/issues/10305)
+- rustup
+	- [SSL connect error](https://github.com/rust-lang/cargo/issues/7096)
 - fontTools
 	- ["WARNING: FFTM NOT subset; don't know how to subset; dropped"](https://github.com/filamentgroup/glyphhanger/issues/56)
 - GoldenDict-ng
@@ -20,6 +22,8 @@
 	- [CUDA](https://developer.nvidia.com/cuda-toolkit)
 - SilverDict
 	- [[Bug]: Lxml](https://github.com/termux/termux-packages/issues/18552)
+- Scoop
+	- [How to resolve "Recv failure: Connection was reset"](https://github.com/orgs/community/discussions/49456)
 - Termux
 	- [apt-get update fails to fetch files, “Temporary failure resolving …” error](https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error)
 	- [cargo install: specify a /tmp substitute?](https://stackoverflow.com/questions/64572901/cargo-install-specify-a-tmp-substitute/64616981#64616981)

@@ -1,0 +1,20 @@
+- Open_With
+	- `.jpg` JPEGView-fork, IrfanView
+	- `.psd` IrfanView
+	- `.svg` qView
+	- `.gif` mpv
+	- `.epub` ePubViewer
+	- `.pdf` PDF.js
+	- `.m4a` mpv, fmedia
+- Reg
+	- `install-context.reg` sublime-text
+	- `install-context.reg` lockhunter
+	- `register.reg` zlib
+	- `install-context.reg` vim
+- Version
+	- `scoop install nodejs18`
+	- `scoop install pnpm`
+	- `scoop install fnm`
+		- `fnm install 18.15.0`
+		- `fnm install 16.20.0`
+	- `scoop install python39`

@@ -34,6 +34,8 @@
 		- `C:\ProgramData\pm2\home`
 	- 工具 → 空文件夹清理程序 → 忽略列表 → 右键 → 添加文件夹
 		- `your-postgres-database/`
+- Imagus
+	- 选项 → (禁用)此项功能的方式 → (启用)此项功能的方式
 - IrfanView
 	- 按住左键拖拽 → `S-ArrowKey` → `A-ArrowKey` → `C-y`剪裁
 	- `F12`
@@ -47,9 +49,13 @@
 	- 设置 → 壁纸 → 壁纸输入 → 键盘 → 应用聚焦时的鼠标交互
 - Logseq
 	- 设置 → 常规 → 自定义快捷键 → 块编辑基本
+- MEGAsync
+	- 设置 → 文件夹 → 排除的文件和文件夹名称
+		- `clink_history`, `.obsidian`, `luna_pinyin.userdb/`
 - NEAV1E
 	- 设置 → 路径 → 默认输出位置() → 保存并退出
 	- 设置 → 更新器
+- Qbitterre
 - QtScrcpy
 	- 手机 → 设置 → 连接 → WLAN → 当前网络 → IP地址
 	- 手机 → 设置 → 关于手机 → 版本号(x7)
@@ -66,13 +72,15 @@
 	- `sudo apt install wget curl git`
 	-
 - Windows
+	- @重装
+		- C盘外硬盘 → 右键菜单/属性 → 安全 → 编辑 → Users → 完全控制 On
 	- 账户
 		- 账户 → 跳过、不勾选、不联网、不填写密码
 		- 运行 → `control userpasswords2` → 属性 → 要使用本计算机，用户必须输入用户名和密码(Off)
 	- `Win+Q`
-		- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search` → BingSearchEnabled (DWORD 32-bit)(0) → CortanaConsent (DWORD 32-bit)(0)
+		- [x] 注册表编辑器 → `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search` → BingSearchEnabled (DWORD 32-bit)(0) → CortanaConsent (DWORD 32-bit)(0)
 		- 搜索权限和历史记录 → (All Off)
-		- Windows Search设置 → 高级搜索索引器设置 → 经典 → 在此自定义搜索位置 → 修改 → 开始菜单(On) → 确定
+		- Windows Search设置 → 高级搜索索引器设置 → 经典 → 在此自定义搜索位置 → 修改 → 包含的位置/用户 Off → 确定
 	- 鼠标
 		- 鼠标设置 → 其他鼠标选项 → 指针 ... Grey Tango
 		- 自定义 → 文本选择 → 浏览 → .../cursor_white/Text.cur → 应用

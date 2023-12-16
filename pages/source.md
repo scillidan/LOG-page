@@ -2,6 +2,8 @@
   id:: 6573dc55-7b81-4063-9aa3-79b03d1ee909
 	- [pyftsubset](https://github.com/web-wyj/pyftsubset) [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer)
 	- [齊伋體](https://github.com/LingDong-/qiji-font) [剔骨仿宋](https://github.com/LingDong-/tk-fangsong-font)
+- @keymap
+	- [VIA](https://www.caniusevia.com/) [x] [sharpkeys](https://github.com/randyrants/sharpkeys)
 - js
 	- [mdBook](https://github.com/rust-lang/mdBook)
 		- [mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
@@ -35,6 +37,11 @@
 		- [colorpedia](https://github.com/joowani/colorpedia) [pastel](https://github.com/sharkdp/pastel)
 	- mpv
 		- [mpv-lrc](https://git.sr.ht/~guidocella/mpv-lrc)
+	- [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+		- [Jackett](https://github.com/Jackett/Jackett) [jackett.md](https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc) [x] [QbtManager](https://github.com/Webreaper/QbtManager)
+	- [Sizer](https://www.brianapps.net/sizer/)
+		- [Common display resolutions](https://en.wikipedia.org/wiki/Display_resolution?useskin=vector#Common_display_resolutions)
+		- [Screen cheatsheet](https://cheatsheets.zip/screen)
 	- Whisper
 		- [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 		- [Insanely Fast Whisper (CLI)](https://github.com/ochen1/insanely-fast-whisper-cli)
@@ -76,5 +83,7 @@
 		- [bat](https://github.com/sharkdp/bat)
 		- [trash](https://github.com/andreafrancia/trash-cli)
 		- [unzip](https://infozip.sourceforge.net)
+		- [zellij](https://zellij.dev/) [tmux](https://github.com/tmux/tmux/wiki)
+			- [Example Plugins](https://zellij.dev/documentation/plugin-examples)
 		- broot [xplr](https://github.com/sayanarijit/xplr)
 		- [cmus](https://cmus.github.io/) [termusic](https://github.com/tramhao/termusic) [gomu](https://github.com/issadarkthing/gomu) [tuijam](https://github.com/cfangmeier/tuijam) [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) [YouTerm](https://github.com/marcoradocchia/youterm) [bum](https://github.com/dylanaraps/bum) [pimp](https://github.com/speguero/pimp)([rpmp](https://github.com/speguero/rpmp))
