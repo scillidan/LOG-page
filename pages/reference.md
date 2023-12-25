@@ -6,6 +6,10 @@
 	- [Creating font subsets](https://markoskon.com/creating-font-subsets/)
 - @karaok
 	- [Aegisub 卡拉 OK 特效模板](https://note.tonycrane.cc/others/subs/aegisub/karaoke/)
+- @edit
+	- [How to split large text file in windows? [closed]](https://stackoverflow.com/questions/31786287/how-to-split-large-text-file-in-windows)
+- @regex
+	- [How do I find and remove duplicate lines from a file using Regular Expressions? [closed]](https://stackoverflow.com/questions/1573361/how-do-i-find-and-remove-duplicate-lines-from-a-file-using-regular-expressions)
 - 7z
 	- [7Zip - Command Line : Exclude folder(s) by wildcard pattern?](https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern)
 - Arch
@@ -21,9 +25,12 @@
 - Broot
 	- [Keyboard key](https://dystroy.org/broot/conf_verbs/#keyboard-key)
 	- [edit a text file](https://dystroy.org/broot/file-operations/#edit-a-text-file)
+- Cargo
+	- [配置 Rust 工具链的国内源](https://books.niqin.com/read/rust-guide/zh-cn/3-env/3.1-rust-toolchain-cn.html)
+	- [配置 Cargo 国内镜像源](https://books.niqin.com/read/rust-guide/zh-cn/4-cargo/4.1-source-replacement.html)
+	- [来源 更换](https://rustwiki.org/zh-CN/cargo/reference/source-replacement.html)
 - Cmder
 	- [Shortcut to open Cmder in a chosen folder](https://github.com/cmderdev/cmder#shortcut-to-open-cmder-in-a-chosen-folder)
-	- [Make your terminal look Swag with MSYS2 and ZSH](https://dev.to/shrihankp/make-your-terminal-look-swag-with-msys2-and-zsh-32b7)
 	- [How to install Z shell (zsh) on Cygwin](https://medium.com/@alllexsm/how-to-install-z-shell-zsh-on-cygwin-dd9ee380d783)
 	- [Installing ZSH on Windows](https://dev.to/zinox9/installing-zsh-on-windows-37em)
 	- [Integrating Cygwin](http://github.com/cmderdev/cmder/wiki/Integrating-Cygwin)
@@ -35,6 +42,7 @@
 	- [phenomenon Is this the glass wall](https://everest-pipkin.com/projects/phenomenon.html) by [Everest Pipkin](https://everest-pipkin.com) / [ACSL](https://anticapitalist.software)
 - Everything
 	- [Tools Options Exclude "Exclude files" *.tmp :: not working ??](https://www.voidtools.com/forum/viewtopic.php?t=11617)
+	- [Omit Recycle Bin Files From Search](https://www.voidtools.com/forum/viewtopic.php?t=6454)
 - Fontsource
 	- [Contributing to Fontsource](https://github.com/fontsource/font-files/blob/main/CONTRIBUTING.md)
 - F-Droid
@@ -45,6 +53,7 @@
 - GoldenDict
 	- [Goldendict in Portable mode disallows adding dictionaries search paths, relevant config file edits are discarded.](https://github.com/goldendict/goldendict/issues/1560)
 	- [About Popup Window Size](https://github.com/goldendict/goldendict/issues/1010)
+	- [fileformat.md](https://github.com/zhansliu/writemdict/blob/master/fileformat.md)
 	- [Customize Dictionary](https://xiaoyifang.github.io/goldendict-ng/custom_dictionary/)
 - GPT
 	- [How to use OpenAI's API to implement simple conversations with AI](https://zhuanlan.zhihu.com/p/633140041)
@@ -83,10 +92,16 @@
 	- [Embedding external files](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#embedding-external-files)
 	- [Pymdown extensions dependency issue](https://github.com/squidfunk/mkdocs-material/issues/5526)
 	- [Import table from file](https://squidfunk.github.io/mkdocs-material/reference/data-tables/#import-table-from-file)
+- MSYS2
+	- [portabledevops](https://github.com/robertluwang/portabledevops)
+	- [Make your terminal look Swag with MSYS2 and ZSH](https://dev.to/shrihankp/make-your-terminal-look-swag-with-msys2-and-zsh-32b7)
+	- [How can I configure alacritty to work with MSYS2?](https://github.com/alacritty/alacritty/issues/3301)
 - Notion
 	- [Github Actions 自动备份 Notion 空间](https://zuolan.me/notion-backup)
 - Python
 	- [How to set environment variables in Python?](https://stackoverflow.com/questions/5971312/how-to-set-environment-variables-in-python)
+- qBittorrent
+	- [How to configure Jackett plugin](https://github.com/qbittorrent/search-plugins/wiki/How-to-configure-Jackett-plugin)
 - Qemu
 	- [Install with Qemu Script](https://github.com/BlissRoms-x86/docs/blob/master/install-bliss-os/install-in-a-virtual-machine/install-in-qemu.md)
 - Rime
@@ -98,6 +113,7 @@
 	- [rime-easy-en](https://github.com/BlindingDark/rime-easy-en)
 	- [Rime-Lua-GoogleTranslate](https://github.com/JACKCHAN000/Rime-Lua-GoogleTranslate)
 - Scoop
+	- [scoop-cn](https://github.com/duzyn/scoop-cn)
 	- [scoop cleanup removes all versions of app.](https://github.com/ScoopInstaller/Scoop/issues/2666)
 	- [change install directory?](https://github.com/ScoopInstaller/Scoop/issues/249)
 	- [Safely relocate existing scoop installation directory?](https://github.com/ScoopInstaller/Scoop/issues/3852)
@@ -111,6 +127,7 @@
 	- [Square_degree](https://en.wikipedia.org/wiki/Square_degree)
 	- [Vega](https://en.wikipedia.org/wiki/Vega)
 - Sublime Text
+	- [Sublime Text 3: How to install plugins from Github](https://stackoverflow.com/questions/23026201/sublime-text-3-how-to-install-plugins-from-github)
 	- [Sublime Text: How to Open Files in the Same Window (New Tab)](https://woorkup.com/sublime-text-open-files-same-window/)
 - syncabook
 	- [syncabook](https://github.com/r4victor/syncabook)

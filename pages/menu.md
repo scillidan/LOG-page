@@ -7,20 +7,27 @@
 - BleachBit
 	- Windows Explorer → 缩略图(On) → 清空
 - Chrome
+  collapsed:: true
 	- `chrome://flags/#enable-parallel-downloading` → Parallel downloading → Enabled
 	- floccus bookmarks sync
 		- 打开 ... 新建账户 → WebDav分享 → WebDAV URL(`https://dav.jianguoyun.com/dav`), 用户名(注册[坚果云](https://www.jianguoyun.com)用的电子邮箱), 密码 ... → 服务器详细信息/书签路径(`floccus/bookmarks.xbel`), 文件夹映射/本地文件夹(`/书签栏/`), 同步间隔(1d), 套账户(在其他帐户同步中包括此帐户的本地)文件夹 → 保存
 			- ↔ 坚果云 → 用户 → 账户信息 → 安全选项 → 添加应用(`floccus`) → 生成密码 → 复制 → 完成
 		- 打开 ... WEBDAV(坚果云) → 行为(推送) → 自动同步(On)
 - clawPDF
+  collapsed:: true
 	- PDF阅读器 → 打印 → clawPDF → 属性 → 页面设置 → 方向(横向) → 确定 → 缩放类型(每张纸多页面) → 每张页面数(2)
 - CUETools
+  collapsed:: true
 	- 导出 → `[%directoryname%\]%artist% - %album%\%filename%-new[%unique%].cue`
 - Directory Opus
 	- 设置 → 选项 → 工具栏 → 图标 → 导入
 	- 设置 → 自定义工具栏 → 快捷键
+- Ditto
+	- 选项 → 显示字体 → 字体/`等距更纱黑体 SC` → 字形/常规 → 小五
+	- 选项 → Advanced → Text lines per clip → `1`
 - Everything
-	- 设置 →
+	- 选项 → 索引/排除列表 → 启用排除列表 → 添加筛选器 → `node_modules\`, `public\`, `site\`, `Rubbish\`
+		- ... 添加文件夹 → 文件夹 → `C:\$recycle.bin` → 确定
 - FFmpeg Batch AV Converter
 	- 流多路复用 → 字幕轨 → 保存轨道
 	- 批处理 → Presets → 视频(复制流到MP4)/视频(转换为H264 HQ + 源音频)
@@ -50,8 +57,7 @@
 - Logseq
 	- 设置 → 常规 → 自定义快捷键 → 块编辑基本
 - MEGAsync
-	- 设置 → 文件夹 → 排除的文件和文件夹名称
-		- `clink_history`, `.obsidian`, `luna_pinyin.userdb/`
+	- 设置 → 文件夹 → 排除的文件和文件夹名称 → `clink_history*`, `clink_errorlevel*`, `.obsidian/`, `luna_pinyin.userdb/`
 - NEAV1E
 	- 设置 → 路径 → 默认输出位置() → 保存并退出
 	- 设置 → 更新器
@@ -72,9 +78,11 @@
 	- `sudo apt install wget curl git`
 	-
 - Windows
-	- @重装
+  collapsed:: true
+	- @重装后、修改登录账户后
 		- C盘外硬盘 → 右键菜单/属性 → 安全 → 编辑 → Users → 完全控制 On
-	- 账户
+		- 部分文件夹 → 右键菜单/属性 → 安全 → 高级 → 禁用集成 →  将已继承的权限转换为此对象的显示权限 → 选择`未知账户` → 删除 → 应用 ... 继续
+	- @新装系统
 		- 账户 → 跳过、不勾选、不联网、不填写密码
 		- 运行 → `control userpasswords2` → 属性 → 要使用本计算机，用户必须输入用户名和密码(Off)
 	- `Win+Q`
@@ -102,3 +110,23 @@
 		- 可移动驱动器 → 不执行操作
 	- 关闭Windows键热键
 		- 编辑组策略 → 用户配置 → 管理模板 → Windows组件 → 文件资源管理器 → 关闭Windows键热键 → 右键 → 编辑 → 已启用 → 确定
+	- 键盘
+		- Windows
+			- 编辑语言和键盘选项
+				- 拼写、键入和键盘设置 → 全部关闭
+				- 添加语言 → 英语(美国)
+				- 添加语言 → 中文(简体，中国)/选项 → 微软拼音 → 删除
+			- 高级键盘设置
+				- 语言栏选项 → 语言栏/语言栏 隐藏 → (可选)高级键设置 → 选择操作 → 更改按键顺序 → 全部未分配
+				- 替代默认输入法 → 英语(美国) - 美式键盘 → 允许我为每个应用窗口使用不同的输入法 On
+		- KBLAutoSwith → 设置
+			- 基础设置1 → 输入法切换设置
+				- 自动切换 → 禁止
+				- 默认输入法 → 英文
+			- 基础设置2 → 特殊热键 → 左Shift → 切换中英文输入法
+		- Rime
+			- `default.custom.yaml`
+		-
+-
+- Galaxy S20
+	- 三星键盘 → 样式和布局/自定义符号

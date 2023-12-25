@@ -7,16 +7,34 @@
 	- [SSL connect error](https://github.com/rust-lang/cargo/issues/7096)
 - fontTools
 	- ["WARNING: FFTM NOT subset; don't know how to subset; dropped"](https://github.com/filamentgroup/glyphhanger/issues/56)
+- Github
+	- [Why Schannel fails to receive handshake from the server?](https://stackoverflow.com/questions/46472724/why-schannel-fails-to-receive-handshake-from-the-server)
+	- [Unable to clone, fetch, or push on GitHub (with enterprise TLS/SSL Inspection)](https://github.com/desktop/desktop/issues/2920)
+	- [Receiving fatal: could not read Username for 'https://github.com': terminal prompts disabled while building project in terminal](https://stackoverflow.com/questions/59797272/receiving-fatal-could-not-read-username-for-https-github-com-terminal-prom)
+- gd-tools
+	- [Install gcc compiler on Windows with MSYS2 for C/C++](https://www.devdungeon.com/content/install-gcc-compiler-windows-msys2-cc)
+	- [Using CMake in MSYS2](https://www.msys2.org/docs/cmake/)
+	- [Support using mingw/msys to build xmake on windows](https://github.com/xmake-io/xmake/issues/681)
+	- [marisa-trie](https://github.com/s-yata/marisa-trie)
+	- ? [notify-send](https://github.com/vaskovsky/notify-send)
+	- [CC-CEDICT-MeCab](https://github.com/ueda-keisuke/CC-CEDICT-MeCab)
+	- [NLP——使用MeCab建立一套中文分词系统](https://zhuanlan.zhihu.com/p/86884557)
+	- ? [Error installing : Fatal Error](https://github.com/s-yata/marisa-trie/issues/24)
+	- [What is the meaning of "Failed building wheel for X" in pip install?](https://stackoverflow.com/questions/53204916/what-is-the-meaning-of-failed-building-wheel-for-x-in-pip-install)
+- GoldenDict
+	- [UnicodeEncodeError when redirecting Python output on Windows](https://isaacong.me/posts/unicodeencodeerror-when-redirecting-python-output/)
 - GoldenDict-ng
 	- [List issues fixed in this repo while not in official repo](https://github.com/xiaoyifang/goldendict-ng/issues/587)
 - imagepy
 	- [Issue while training: AttributeError: module 'numpy' has no attribute 'int'](https://github.com/WongKinYiu/yolov7/issues/1280#issuecomment-1360917977)
 - Nuxt
 	- [how to modify nuxt server start port ,default port is 3000](https://github.com/nuxt/nuxt/issues/490)
-- [UnicodeEncodeError when redirecting Python output on Windows](https://isaacong.me/posts/unicodeencodeerror-when-redirecting-python-output/)
+- OCRmyPDF
+	- [fatal error: qpdf/Constants.h - pip3 install ocrmypdf and pikepdf on ubuntu win10 subsystem failed](https://github.com/ocrmypdf/OCRmyPDF/issues/460)
 - Stable Diffusion web UI
 	- [Xformers](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers)
 	- [How on earth can I install xformers?](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/9802)
+	- [START LOCALLY](https://pytorch.org/get-started/locally/)
 	- [AssertionError: Torch not compiled with CUDA enabled](https://github.com/pytorch/pytorch/issues/30664)
 	- [Troubleshooting](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting)
 	- [CUDA](https://developer.nvidia.com/cuda-toolkit)
@@ -24,9 +42,15 @@
 	- [[Bug]: Lxml](https://github.com/termux/termux-packages/issues/18552)
 - Scoop
 	- [How to resolve "Recv failure: Connection was reset"](https://github.com/orgs/community/discussions/49456)
+- SSH
+	- [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+	- [Working with SSH key passphrases](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
+	- [Windows SSH: Permissions for 'private-key' are too open](https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open)
 - Termux
 	- [apt-get update fails to fetch files, “Temporary failure resolving …” error](https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error)
 	- [cargo install: specify a /tmp substitute?](https://stackoverflow.com/questions/64572901/cargo-install-specify-a-tmp-substitute/64616981#64616981)
 	- [Can not install on android - target 'aarch64-linux-android' not found in channel.](https://github.com/rust-lang/rustup/issues/2872)
 - Whisper Webui
 	- [Segmentation Fault when loading pyannote/speaker-diarization-3.0 in rockylinux9/python3 environment](https://github.com/pyannote/pyannote-audio/issues/1499)
+- zsh-abbr
+	- [abbr c does not clear abbreviations created with the pattern abbr x=y](https://github.com/olets/zsh-abbr/issues/88)

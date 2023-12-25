@@ -11,6 +11,8 @@
 	- `install-context.reg` lockhunter
 	- `register.reg` zlib
 	- `install-context.reg` vim
+	- `install-file-associations.reg` git
+	- `VBCABLE_Setup_x64.exe` vb-cable
 - Version
 	- `scoop install nodejs18`
 	- `scoop install pnpm`
@@ -18,3 +20,6 @@
 		- `fnm install 18.15.0`
 		- `fnm install 16.20.0`
 	- `scoop install python39`
+	- `scoop install openjdk11`
+	- `scoop install php72`
+	- `scoop install postgresql14`

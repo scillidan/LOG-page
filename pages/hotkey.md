@@ -8,6 +8,9 @@
 	- 🐞 `W-S-Num` @desktop.ahk `W-Num` @desktop.ahk
 	- ↔ `W-A-Arrows` @RectangleWin
 	- `C-S-A-k` @AutoHotkey Keyboard Locker
+	- `W-F2` @toggle-screen-autohotkey
+	- `W-left_drag` @ahk-resize-windows Move_Windows
+	- `W-right_drag` @ahk-resize-windows Resize_Windows
 	- `W-A-l` @Lintalist
 	- `A-Etr` @Lintalist Command_Cheatsheet
 	- `C-A-o` @GoldenDictOCR Toggle_Ocr
@@ -73,7 +76,7 @@
 	- `b` Open_In_Browser
 	- `h` Hide_This_Post
 - GoldenDict-ng
-	- `C-c-c` Translate_Pasteboard
+	- `A-z` Translate_Pasteboard
 	- `C-l` focus
 	- `A-S-g` Toggle_GoldenDict-ng
 	  id:: 65410518-dd64-43aa-a476-cd9fc364a164

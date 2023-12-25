@@ -5,6 +5,7 @@
 - @keymap
 	- [VIA](https://www.caniusevia.com/) [x] [sharpkeys](https://github.com/randyrants/sharpkeys)
 - js
+  collapsed:: true
 	- [mdBook](https://github.com/rust-lang/mdBook)
 		- [mdbook-admonish](https://github.com/tommilligan/mdbook-admonish)
 		- [Aquamarine](https://github.com/mersinvald/aquamarine)
@@ -24,14 +25,16 @@
 - opt
 	- ActivityWatch
 		- [Watchers](https://docs.activitywatch.net/en/latest/watchers.html)
-	- [GoldenDict](http://goldendict.org/) / [GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng) [x] [OmegaT](https://omegat.org/)
+	- [GoldenDict](http://goldendict.org/) / [GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng)
 		- [GoldenDict Windows Full Dark Theme](https://github.com/yozhic/GoldenDict-Full-Dark-Theme)
-		- [Mdict](https://mdict.org/) [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/)(汉语大词典(简体精排).mdx 漢語大詞典.mdx) [Online Etymology Dictionary](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E5%85%B1%E4%BA%AB2020.5.11/content/1_english/z_Grammar_others/Online%20Etymology%20Dictionary/) [简明英汉字典增强版#css-版本](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88#css-%E7%89%88%E6%9C%AC) [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)([English-Chinese Names](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Names%20Corpus/English-Chinese%20Names) [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20(Stroke%20animations)) [Latin dictionaries](https://latin-dict.github.io/)(拉丁语和古希腊语词典) [proteusx](https://github.com/proteusx)
-		- [English Spell Checker Dictionaries](http://wordlist.aspell.net/dicts/) [Hunspell dictionaries](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#hunspell-dictionaries) [Hunspell](https://latin-dict.github.io/docs/hunspell.html) [x] [Dictionaries](https://github.com/titoBouzout/Dictionaries) [dictionaries](https://github.com/wooorm/dictionaries)(古希腊语)
+		- [Mdict](https://mdict.org/) [ODE 3/e 添加双解 中文释义](https://mdict.org/post/0011/) [Penguin English Dictionary (third Edition)](https://mdict.org/post/penguin-english-dictionary-3rd/) [Collins Cobuild English Usage](https://mdict.org/post/collins-cobuild-english-usage/) [朗文英语写作活用词典-英汉双解](https://mdict.org/post/longman-language-activator/) [韦氏高阶英汉双解词典](https://mdict.org/post/merriam-webster-s-advanced-learner-s-english-chinese-dictionary/) [Easier English Basic Synonym](https://mdict.org/post/0001/) [Home/按词典语种来分类/汉语/字典/](https://mdx.mdict.org/%E6%8C%89%E8%AF%8D%E5%85%B8%E8%AF%AD%E7%A7%8D%E6%9D%A5%E5%88%86%E7%B1%BB/%E6%B1%89%E8%AF%AD/%E5%AD%97%E5%85%B8/)(汉语大词典(简体精排).mdx 漢語大詞典.mdx) [Online Etymology Dictionary](https://downloads.freemdict.com/%E5%B0%9A%E6%9C%AA%E6%95%B4%E7%90%86/%E5%85%B1%E4%BA%AB2020.5.11/content/1_english/z_Grammar_others/Online%20Etymology%20Dictionary/) [简明英汉字典增强版#css-版本](https://github.com/skywind3000/ECDICT/wiki/%E7%AE%80%E6%98%8E%E8%8B%B1%E6%B1%89%E5%AD%97%E5%85%B8%E5%A2%9E%E5%BC%BA%E7%89%88#css-%E7%89%88%E6%9C%AC) [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)([English-Chinese Names](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/Chinese%20Names%20Corpus/English-Chinese%20Names) [Make Me a Hanzi](https://github.com/lxs602/Chinese-Mandarin-Dictionaries/tree/main/MakeMeaHanzi%20(Stroke%20animations)) [Latin dictionaries](https://latin-dict.github.io/)(拉丁语和古希腊语词典) [proteusx](https://github.com/proteusx)(古希腊语)
+		- [English Spell Checker Dictionaries](http://wordlist.aspell.net/dicts/) [Hunspell dictionaries](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#hunspell-dictionaries) [Hunspell](https://latin-dict.github.io/docs/hunspell.html) [x] [Dictionaries](https://github.com/titoBouzout/Dictionaries) [dictionaries](https://github.com/wooorm/dictionaries)
 		- [Pronunciation audio](https://tatsumoto-ren.github.io/blog/setting-up-goldendict.html#pronunciation-audio) [pronunciations](https://github.com/yousefvand/pronunciations)
 		- [Content in all languages](https://wiki.kiwix.org/wiki/Content_in_all_languages)
-		- [tencent-translate-for-goldendict](https://github.com/LexsionLee/tencent-translate-for-goldendict) [thes](https://github.com/grantshandy/thes) [DidYouMean](https://github.com/hisbaan/didyoumean) [x]  [DeepL X](https://github.com/OwO-Network/DeepLX) [GoldenDict tools](https://github.com/Ajatt-Tools/gd-tools) [auto_abbr](https://github.com/LemuriaChen/auto_abbr) ↔ [zdic-cli](https://github.com/LingDong-/zdic-cli)
+		- [tencent-translate-for-goldendict](https://github.com/LexsionLee/tencent-translate-for-goldendict) [thes](https://github.com/grantshandy/thes) [DidYouMean](https://github.com/hisbaan/didyoumean) [abbr-cli](https://github.com/mhadidg/abbr-cli) [x] [sentences](https://github.com/neurosnap/sentences) [wtf-cli](https://github.com/haixiangyan/wtf-cli) [DeepL X](https://github.com/OwO-Network/DeepLX) [GoldenDict tools](https://github.com/Ajatt-Tools/gd-tools) ↔ [zdic-cli](https://github.com/LingDong-/zdic-cli)
 		- [MDict Tool](https://github.com/liuyug/mdict-utils)
+	- [x] [OmegaT](https://omegat.org/)
+	- [x] [KeePass](https://keepass.info/index.html) [[Translations](https://keepass.info/translations.html) [KeePassHttp](https://github.com/pfn/keepasshttp) [WebAutoType](https://sourceforge.net/p/webautotype/src/ci/main/tree/)]
 	- Keyprinha
 		- [汉字拼音转换工具](https://github.com/mozillazg/python-pinyin) [Go OpenCC](https://github.com/razonyang/gopencc) [anyascii](https://github.com/anyascii/anyascii) [text-transform-cli](https://github.com/maxlath/text-transform-cli) [x] [Python Slugify](https://github.com/un33k/python-slugify) [abbreviate](https://github.com/dnnrly/abbreviate) [Vapyrwave](https://github.com/jonesmartins/vapyrwave) [uwuify](https://github.com/Daniel-Liu-c0deb0t/uwu) [sttr](https://github.com/abhimanyu003/sttr)
 		- [colorpedia](https://github.com/joowani/colorpedia) [pastel](https://github.com/sharkdp/pastel)
@@ -42,11 +45,15 @@
 	- [Sizer](https://www.brianapps.net/sizer/)
 		- [Common display resolutions](https://en.wikipedia.org/wiki/Display_resolution?useskin=vector#Common_display_resolutions)
 		- [Screen cheatsheet](https://cheatsheets.zip/screen)
+	- Rime
+		- [朗文英语写作活用词典-英汉双解](https://mdict.org/post/longman-language-activator/) [韦氏高阶英汉双解词典](https://mdict.org/post/merriam-webster-s-advanced-learner-s-english-chinese-dictionary/)
 	- Whisper
 		- [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
 		- [Insanely Fast Whisper (CLI)](https://github.com/ochen1/insanely-fast-whisper-cli)
 - sh
+	- [scoop](https://scoop.sh/) [scoop-search](https://github.com/shilangyu/scoop-search) [x] [Shim](https://github.com/ScoopInstaller/Shim) [find-java.ps1](https://gist.github.com/se35710/43693e679701387d722206eff1e85f5f)
 	- Cmder
+	  collapsed:: true
 		- cd [x] [tere](https://github.com/mgunyho/tere)
 		- touch [feel](https://github.com/jbr/feel) [fsutil](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/windows-commands/fsutil.md)
 		- mkdir [Mkdirs](https://github.com/dolanor/mkdirs)([ki-cli-hyphen](https://github.com/scillidan/ki-cli-hyphen))
@@ -59,17 +66,19 @@
 		- clip [x] [uclip](https://github.com/suzusime/uclip)
 		- [x] tar [7z](https://www.7-zip.org)
 		- [broot](https://dystroy.org/broot/) [x] [lf](https://github.com/gokcehan/lf)
+	- Tabby
+		- [Noctis Color Schemes](https://github.com/aaronhuggins/tabby-colors-noctis)
 	- Lintalist
 		- [gocash](https://github.com/basebandit/gocash)
 		- [cook](https://github.com/glitchedgitz/cook)
 	- Vim
-		- [x] [goldendict.vim](https://github.com/jiazhoulvke/goldendict.vim)
+		- [x] [goldendict.vim](https://github.com/jiazhoulvke/goldendict.vim) [T.vim](https://github.com/sicong-li/T.vim)
 		- [vim-epub](https://github.com/vim-scripts/Vim-EPUB) [x] [Zim Desktop Wiki plugin for Vim](https://github.com/jakykong/vim-zim)
 		- [x] [vimGPT](https://github.com/ishan0102/vimGPT)
 		- [x] [vmn](https://github.com/Dudemanguy/vmn)
 	- Nvim
 		- [x] [nvim-zh](https://github.com/noearc/nvim-zh) [rime-ls](https://github.com/wlh320/rime-ls) [Dead Simple Pinyin Language Server](https://github.com/iamcco/ds-pinyin-lsp) [cmp-rime](https://github.com/Ninlives/cmp-rime) [Skkeleton](https://github.com/vim-skk/skkeleton)
-		- [x] [translate.nvim](https://github.com/uga-rosa/translate.nvim) [vim-translator](https://github.com/voldikss/vim-translator)
+		- [x] [Trans.nvim](https://github.com/JuanZoran/Trans.nvim) [translate.nvim](https://github.com/uga-rosa/translate.nvim) [vim-translator](https://github.com/voldikss/vim-translator)
 		- [x] [telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) [mpv.nvim](https://github.com/tamton-aquib/mpv.nvim)
 	- [LunarVim](https://github.com/LunarVim/LunarVim)
 		- [Multicursors.nvim](https://github.com/smoka7/multicursors.nvim)
@@ -87,3 +96,6 @@
 			- [Example Plugins](https://zellij.dev/documentation/plugin-examples)
 		- broot [xplr](https://github.com/sayanarijit/xplr)
 		- [cmus](https://cmus.github.io/) [termusic](https://github.com/tramhao/termusic) [gomu](https://github.com/issadarkthing/gomu) [tuijam](https://github.com/cfangmeier/tuijam) [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) [YouTerm](https://github.com/marcoradocchia/youterm) [bum](https://github.com/dylanaraps/bum) [pimp](https://github.com/speguero/pimp)([rpmp](https://github.com/speguero/rpmp))
+- sh_opt
+	- [x] [Compress-images](https://github.com/Yuriy-Svetlov/compress-images) [smally](https://github.com/xinlin-z/smally)
+	- [Markserv](https://github.com/markserv/markserv) [Markdown Live Preview](https://github.com/ms-jpq/markdown-live-preview) [x] [GoSee](https://github.com/jmbaur/gosee)

@@ -1,3 +1,6 @@
+- @regex
+	- `^(.*)(\r?\n\1)+$` Duplicate_Lines
+	-
 - av1an
 - ```
       scoop install vapoursynth vmaf

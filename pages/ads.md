@@ -1,0 +1,2 @@
+- [MEGAsync](https://mega.nz/sync/aff=sRoe2ubwKo4)
+- [Tencent Cloud TMT]
