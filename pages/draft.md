@@ -1,2 +1,0 @@
-- @regex
-	- `^(.*)(\r?\n\1)+$` Duplicate_Lines

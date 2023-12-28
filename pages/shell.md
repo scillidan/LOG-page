@@ -8,11 +8,11 @@
 	- `.m4a` mpv, fmedia
 - Reg
 	- `install-context.reg` sublime-text
+	- `install-context.reg` everything
 	- `install-context.reg` lockhunter
+	- `install-context.reg` vim (gvim)
 	- `register.reg` zlib
-	- `install-context.reg` vim
 	- `install-file-associations.reg` git
-	- `VBCABLE_Setup_x64.exe` vb-cable
 - Version
 	- `scoop install nodejs18`
 	- `scoop install pnpm`
@@ -23,3 +23,5 @@
 	- `scoop install openjdk11`
 	- `scoop install php72`
 	- `scoop install postgresql14`
+- Install
+	- `VBCABLE_Setup_x64.exe` vb-cable
