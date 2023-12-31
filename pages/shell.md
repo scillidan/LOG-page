@@ -1,3 +1,9 @@
+- Folder_Name
+	- `name-` Unixlike_Index
+	- `-r` re-sort
+	- `-c` cache
+	- `-p` picture
+	- `s-` system
 - Open_With
 	- `.jpg` JPEGView-fork, IrfanView
 	- `.psd` IrfanView

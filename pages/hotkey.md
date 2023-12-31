@@ -26,7 +26,8 @@
 	- `ContextMenu` @MarkDownload
 	- `ContextMenu` @immersive-translate
 	- `ContextMenu` @Read_Later
-	- `A-f` @Chikamichi_Search_Anything
+	- `ExtensionMenu` @Open_in_Firefox
+	- `A-S-f` @Chikamichi_Search_Anything
 	- `A-S-q` @QuicKey Search_Tabs
 	- `A-S-y` @Yomichan E-DirectoryS
 	- `A-S-e` @Emoji_Keyboard
@@ -37,7 +38,6 @@
 	- `A-S-d` @@Dark_Reader
 	- `A-S-o` @Open_Multiple_URLs
 	- `A-p` @Tab_to_Window/Popup
-	- `A-S-f` @Open_in_Firefox
 	- `C-Drag` @Table_range_select_and_copy
 - Cmder
 	- `A-h` @clink help

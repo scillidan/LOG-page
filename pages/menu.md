@@ -78,6 +78,7 @@
 	- `sudo apt install wget curl git`
 	-
 - Windows
+  collapsed:: true
 	- @重装后、修改登录账户后
 		- C盘外硬盘 → 右键菜单/属性 → 安全 → 编辑 → Users → 完全控制 On
 		- 部分文件夹 → 右键菜单/属性 → 安全 → 高级 → 禁用集成 →  将已继承的权限转换为此对象的显示权限 → 选择`未知账户` → 删除 → 应用 ... 继续
@@ -132,3 +133,9 @@
 -
 - Galaxy S20
 	- 三星键盘 → 样式和布局/自定义符号
+- App Manager
+	- 长按应用 → 点击其他应用 → 备份/还原 → APK文件... → 备份
+	- 设置 → 备份/还原 → 备份位置 → 添加 → 前往 → `.../0/Download/rclone_andriod/opt` → 勾选新位置 → 保存
+- Round Sync
+	- Setting → Remotes → Add → Webdav → Next ...
+	- Setting → Export config → `.../0/Download/rclone_andriod/ini` → 保存
