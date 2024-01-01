@@ -2,8 +2,9 @@
 - 2024R SHELL-of-windows, SHELL-of-mpv, SERVE-source, MATCH-ing, `logseq.md`, `datasette.md`
 - 2024- `rime.md`, `chrome.md`, `dopus.md`, `keypirinha.md`, `retroarch.md`, `stream.md`, `vps.md`, `vps-ex.md`, `sublime-text.md`, `obsidian.md`, `mkdocs.md`, `vivliostyle-viewer.md`
 -
-- 202312 `goldendict.md`
-- 202311 Keypirinha, GoldenDict, Termux, Cats, Temporary Work
+- 202401
+- 202312 Temporary Work 1/3, `goldendict.md`, Re-install Windows, Re-organize Data, SERVE-demo
+- 202311 Keypirinha, GoldenDict, Termux, Cats, Temporary Work 2/3
   id:: 6550a5f7-9f5e-445d-9b83-b70af7664482
 - 202310 `e-dict.md`, Archive Manga, GoldenDict-ng, Test whisper-webui, Re-Write, Logseq, NOTION-table(windows...)
 - 202309 Logseq, NOTION-table(renpy...), `mpv-lrc.md`, `mpv-lrc-edit.md`

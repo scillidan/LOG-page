@@ -47,8 +47,11 @@
 	- 按住左键拖拽 → `S-ArrowKey` → `A-ArrowKey` → `C-y`剪裁
 	- `F12`
 	- `C-s`保存
-- JPEGView
-	- 右键 → 设定/管理 → 编辑用户设置  → 修改`ShowFullScreen=auto`的值为`false`
+- JPEGView → 右键
+	- 显示导航面板 Off
+	- 显示顺序 → 文件名
+	- 设定/管理 → 编辑用户设置  → 修改`ShowFullScreen=auto`的值为`false`
+	- 设定/管理 → 设置当前参数为默认值
 - KMSpico
 	- PowerShell → `Set-MpPreference -DisableRealtimeMonitoring $true`
 	- Windows安全中心 → 病毒和威胁防护 → "病毒和威胁防护"设置 → 管理设置 → 实时保护(Off) → 云提供的保护(Off) → 自动提交样本(Off) → 篡改保护(Off)

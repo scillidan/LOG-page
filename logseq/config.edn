@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["ads" "annotate" "cat" "environment" "hotkey" "menu" "open-with" "playground" "shell" "troubleshoot" "readme-cache" "todo" "todo_python" "done"]
+ :favorites ["todo" "todo_python" "done" "ads" "annotate" "cat" "environment" "hotkey" "menu" "open-with" "playground" "shell" "troubleshoot" "readme-cache"]
 
  ;; Set flashcards interval.
  ;; Expected value:
