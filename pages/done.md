@@ -1,8 +1,8 @@
-- 2024C `whisper.md`, `syncbook.md`, `cmder.md`, `vim.md`, `zeal.md`, `termux.md`, `msys2.md`
-- 2024R SHELL-of-windows, SHELL-of-mpv, SERVE-source, MATCH-ing, `logseq.md`, `datasette.md`
-- 2024- `rime.md`, `chrome.md`, `dopus.md`, `keypirinha.md`, `retroarch.md`, `stream.md`, `vps.md`, `vps-ex.md`, `sublime-text.md`, `obsidian.md`, `mkdocs.md`, `vivliostyle-viewer.md`
+- 2024R SHELL-of-mpv, SHELL-of-windows
+- 2024C `whisper.md`, `sd-webui.md`
+- 2024- `miniflux.md`, `linkding.md`
 -
-- 202401
+- 202401 Re-csv(..., zsh, nvim, mpv)
 - 202312 Temporary Work 1/3, `goldendict.md`, Re-install Windows, Re-organize Data, SERVE-demo
 - 202311 Keypirinha, GoldenDict, Termux, Cats, Temporary Work 2/3
   id:: 6550a5f7-9f5e-445d-9b83-b70af7664482

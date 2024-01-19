@@ -28,6 +28,16 @@
 - Everything
 	- 选项 → 索引/排除列表 → 启用排除列表 → 添加筛选器 → `node_modules\`, `public\`, `site\`, `Rubbish\`
 		- ... 添加文件夹 → 文件夹 → `C:\$recycle.bin` → 确定
+	- 选项 → 常规 → 结果 → 双击路径列打开目录 On
+	- ... 索引 → 索引最近变化 Off
+	- ... 索引 → NTFS → 自动... Off → 不搜索的本地磁盘 → 包含到数据库 Off, 启用USN日志 Off
+- EverythingToolbar → 更多 → 视图 → 紧凑 (详细)
+	- ... 调整窗口大小 → 全高, 1/3宽
+	- ... 选项 → 修改快捷键 → Win+Alt+S
+	- ... 选项 → 隐藏空搜索, 选择第一个结果, 双击打开, 显示快速开关, 禁用动画, 自动检查更新 On
+	- ... 选项 → 规则 → 添加
+		- 名称 `Open with Sublime`
+		- 命令 `subl %filename%`
 - FFmpeg Batch AV Converter
 	- 流多路复用 → 字幕轨 → 保存轨道
 	- 批处理 → Presets → 视频(复制流到MP4)/视频(转换为H264 HQ + 源音频)
@@ -81,7 +91,6 @@
 	- `sudo apt install wget curl git`
 	-
 - Windows
-  collapsed:: true
 	- @重装后、修改登录账户后
 		- C盘外硬盘 → 右键菜单/属性 → 安全 → 编辑 → Users → 完全控制 On
 		- 部分文件夹 → 右键菜单/属性 → 安全 → 高级 → 禁用集成 →  将已继承的权限转换为此对象的显示权限 → 选择`未知账户` → 删除 → 应用 ... 继续
@@ -129,10 +138,11 @@
 			- 基础设置2 → 特殊热键 → 左Shift → 切换中英文输入法
 		- Rime
 			- `default.custom.yaml`
+			- 迁移: 复制用户资料夹到新目录 → 小狼毫 安装选项 → 新目录 → 小狼毫 重新部署 → 小狼毫算法服务
 	- 声音
 		- 声音 → 声音控制面板 → 声音 → 声音方案 → 无声
-	- 局域网开机
-		-
+	- Game bar
+		- 游戏 → Game Bar(Off) → 允许控制器打开Game Bar(Off)
 -
 - Galaxy S20
 	- 三星键盘 → 样式和布局/自定义符号
@@ -142,3 +152,4 @@
 - Round Sync
 	- Setting → Remotes → Add → Webdav → Next ...
 	- Setting → Export config → `.../0/Download/rclone_andriod/ini` → 保存
+	- TheWebdav → TheSyncFolder → 更多 → Sync... → Sync local to remote

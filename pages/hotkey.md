@@ -35,7 +35,8 @@
 	- `A-h` @Hypothesis
 	- `C` `Etr` @Imagus Preview_Image
 	- `A-S-t` @Smart_TOC
-	- `A-S-d` @@Dark_Reader
+	- `A-S-R` @Dark_Reader
+	- `A-S-d` @DevDocs Web Ext
 	- `A-S-o` @Open_Multiple_URLs
 	- `A-p` @Tab_to_Window/Popup
 	- `C-Drag` @Table_range_select_and_copy

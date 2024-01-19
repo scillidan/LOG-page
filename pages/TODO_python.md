@@ -1,4 +1,5 @@
 - Schedule (from gpt3.5-turbo)
+  collapsed:: true
 	- Python `2~4wk` 熟悉变量、数据类型、控制结构（if/else、循环）、函数和面向对象编程（类、继承）
 		- "Python Crash Course" - Eric Matthes
 		- "Automate the Boring Stuff with Python" - Al Sweigart
@@ -17,6 +18,7 @@
 		- "Godot Game Development for Beginners" - GDQuest（在线教程）
 		  “Godot Game Development for Beginners” - GDQuest（在线教程）
 - Fuse
+  collapsed:: true
 	- 系统 🤔各脚本-系统独立
 		- UI-画面 🤔少而重的要素 ❎等角视角
 		- 时间 ❎时间系统
@@ -27,6 +29,7 @@
 	- 剧情丰富/文本
 	- 视觉小说/背景
 - Progress
+  collapsed:: true
 	- Renpy
 		- Notion Table for Renpy
 		- jump-system
@@ -61,6 +64,7 @@
 		- `.w3x`tools
 	- Godot
 - Template
+  collapsed:: true
 	- ```
 	  SN编号 - 时间
 	  

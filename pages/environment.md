@@ -13,17 +13,14 @@
 - pip `%HOME%\pip.ini`
 - Rust `%HOME%\.cargo\config`
 - vim `%HOME%\.vimrc`
+	- neovim `%LOCALAPPDATA%\nvim`
+	- neovim `%LOCALAPPDATA%\nvim-data`
+	- packer.nvim `%LOCALAPPDATA%\nvim-data\site\autoload\pack\packer\start\packer.nvim`
+	- packer.nvim `%LOCALAPPDATA%\nvim\lua\lsp\plugins.lua`
 	- vim-plug `$app\autoload\plug.vim`
 	- vim-plug `%LOCALAPPDATA%\nvim\init.vim`
 	- vim-plug `%LOCALAPPDATA%\nvim-data\site\autoload\plug.vim`
-	- neovim `$HOME\.config\nvim`
-	- neovim `$HOME\.local\share\nvim`
-	- neovim `%LOCALAPPDATA%\nvim`
-	- neovim `%LOCALAPPDATA%\nvim-data`
-	- packer.nvim `%LOCALAPPDATA%\nvim\lua\lsp\plugins.lua`
-	- packer.nvim `%LOCALAPPDATA%\nvim-data\site\autoload\pack\packer\start\packer.nvim`
 	- gvim `%HOME%\.gvimrc`
-	- lua `%LOCALAPPDATA%\nvim\lua\lsp\lua.lua`
 - Alacritty `$persist_dir\alacritty.yml`
 - pm2 `PM2_HOME` `C:\ProgramData\pm2\home`
 - mpv `$app\portable_config\input.conf`
