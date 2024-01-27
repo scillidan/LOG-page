@@ -177,3 +177,8 @@
 - Windows Terminal Preview
 	- `C-S-w` exit
 	- `C-Del` Delete_A_Word
+- Zellij
+	- `C-t` New_Tab
+	  `A-Left/Right` Swith_Tab
+	  `C-n` `Arrows` `Etr` Resize
+	  `C-p` `Arrows` `d` / `A-n` New_Window

@@ -1,5 +1,16 @@
+- Note
+	- `Boolean` 逻辑陈述或运算
+	- `=` 赋值
+	- `==` 相等运算
+	- `()` 组
+	- `method()`
+		- `set()` 唯一元素集合
+		- `value()`
+		- `len()`
+		- `range()`
+	- `[]` 创建、访问、修改、剪切列表
+	- `{}` 字典
 - Schedule (from gpt3.5-turbo)
-  collapsed:: true
 	- Python `2~4wk` 熟悉变量、数据类型、控制结构（if/else、循环）、函数和面向对象编程（类、继承）
 		- "Python Crash Course" - Eric Matthes
 		- "Automate the Boring Stuff with Python" - Al Sweigart
