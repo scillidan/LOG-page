@@ -1,5 +1,9 @@
 - 我习惯在一处查看多处的Todo项，也用于备忘。以往不定期地会清理，目前会进行月结，保留一个印象。
 -
+- Schedule
+	- 网站上的安排是6~9h/wk * 12
+	- `1~2wk` Python
+	- `1~wk` Lua
 - OBS Studio
 	- 🐢 在MTGA里，新组彩虹卡组，打历史RANK
 - MkDocs，Obsidian是MkDocs的编辑侧
