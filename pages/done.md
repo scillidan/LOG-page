@@ -1,5 +1,6 @@
 - 2024R SHELL-of-windows?
 -
+- 202402 `vps.md`
 - 202401 All note, All csv, Zsh, Neovim, my_mpv, Termux
 - 202312 Temporary Work 1/3, `goldendict.md`, Re-install Windows, Re-organize Local Data, SERVE-demo
 - 202311 Keypirinha, GoldenDict, Termux, Cats, Temporary Work 2/3

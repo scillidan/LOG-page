@@ -5,8 +5,9 @@
 	- `1~2wk` Python
 	- `1~wk` Lua
 - OBS Studio
-	- 🐢 在MTGA里，新组彩虹卡组，打历史RANK
+	- 🐢 在MTGA里，新组彩虹卡组，打历史或永恒RANK
 - MkDocs，Obsidian是MkDocs的编辑侧
+	- 归档原稿
 	- ✅ 更换切换明亮/黑暗模式的`icon`
 	- ✅ 写点英语帖子或文章。短的也算
 	- ✅ 使用英语语法检查
