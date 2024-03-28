@@ -60,7 +60,9 @@
 - JPEGView → 右键
 	- 显示导航面板 Off
 	- 显示顺序 → 文件名
-	- 设定/管理 → 编辑用户设置  → 修改`ShowFullScreen=auto`的值为`false`
+	- 设定/管理 → 编辑用户设置
+		- → `ShowFullScreen=auto` → `=false`
+		- → `DefaultSaveFormat=jpg` → `png`
 	- 设定/管理 → 设置当前参数为默认值
 - KMSpico
 	- PowerShell → `Set-MpPreference -DisableRealtimeMonitoring $true`
@@ -74,11 +76,15 @@
 - NEAV1E
 	- 设置 → 路径 → 默认输出位置() → 保存并退出
 	- 设置 → 更新器
-- Qbitterre
 - QtScrcpy
 	- 手机 → 设置 → 连接 → WLAN → 当前网络 → IP地址
 	- 手机 → 设置 → 关于手机 → 版本号(x7)
 	- 系统 → 开发者选项 → USB调试(On) → 网络ADB调试(On) → 无线调试(On) → 是否允许USB调试(确定) →  一律允许使用这台计算机进行调试(允许)
+- ShareX
+	- 快捷键设置 → 添加 → 屏幕截图 → 滚动截图
+		- 滚动截图 → 设置 → 覆盖"截图后"设置 → 捕捉后：保存图像文件，在资源管理器中显示文件
+		- 快捷键 → `C-S-A-s`
+	- 任务设置 → 图像 → JPEG质量 `100`
 - Wallpaper Engine #.ol
 	- 新建 ... 关闭
 	- 编辑 → 在资源管理器中打开 → .json

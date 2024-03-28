@@ -1,0 +1,42 @@
+- AltBacktick
+	- `A-Backquote` Switch_Between_Windows_Of_The_Same_Program
+- AutoHotKey
+	- `C-S-A-k` @AutoHotkey Keyboard Locker
+	- `W-F2` @toggle-screen-autohotkey
+	- ♻ `W-left_drag` @ahk-resize-windows Move_Window
+	- ♻ `W-right_drag` @ahk-resize-windows Resize_Window
+	- ♻ `A-t` @TSolidBackground
+	- ♻ `C-W-d` New_Virtual_Desktop
+	- ♻ `C-W-Left/Right` switch
+	- ♻ `W-S-Num` @desktop.ahk `W-Num` @desktop.ahk
+	- `W-c` @ShortScript
+	- ♻ `W-f` @CL3 Convert_Input
+- EverythingToolbar
+	- `W-A-s` Toggle_EverythingToolbar
+- DeskPins
+	- `C-F12` Toggle_Pin_Window
+- GoldenDict
+	- `A-S-g` Toggle_Main_Window
+	- `A-z` Search_From_Pasteboard
+- GoldenDictOCR
+	- `C-A-o` Toggle_Ocr
+	- `C-A-g` Toggle_Select
+- Keypirinha
+	- `W-C-k` Toggle_Keypirinha
+	- `F2` Open_Console`
+- Lintalist
+	- `W-A-l` Toggle_Main_Window
+	- `S-Etr` Paste_Part_2
+- NiftyWindows
+	- `W-Esc` Toggle_NiftyWindows
+- RectangleWin
+	- `W-A-Arrows` Snap_Window
+- Sizer
+	- `Btn_Right` Resize_Window
+- Snipaste
+	- `F1` Snip
+	- `C-t` Paste
+- Umi-OCR
+	- `W-S-s` Screenshot_OCR
+- Zeal
+	- `A-S-z` Open_Zeal
