@@ -1,0 +1,113 @@
+- Alacritty
+	- `C-d` exit
+- Chrome
+	- `C-l` search
+	- `C-S-b` Toggle_Bookmark_Bar
+	- `ContextMenu` @MarkDownload
+	- `ContextMenu` @immersive-translate
+	- `ContextMenu` @Read_Later
+	- `ExtensionMenu` @Open_in_Firefox
+	- `A-S-f` @Chikamichi_Search_Anything
+	- `A-S-q` @QuicKey Search_Tabs
+	- `A-S-y` @Yomichan E-DirectoryS
+	- `A-S-e` @Emoji_Keyboard
+	- `A-S-l` @linkding_extension
+	- `A-h` @Hypothesis
+	- `C` `Etr` @Imagus Preview_Image
+	- `A-S-t` @Smart_TOC
+	- `A-S-R` @Dark_Reader
+	- `A-S-d` @DevDocs Web Ext
+	- `A-S-o` @Open_Multiple_URLs
+	- `A-p` @Tab_to_Window/Popup
+	- `C-Drag` @Table_range_select_and_copy
+- Cmder
+	- `A-h` @clink help
+	- `Tab` @clink complete
+	- `C-Spc` @clink-fzf complete
+	- `C-r` @clink-fzf history
+	- `A-c` @clink-fzf subdirectory
+	- `C-t` @clink-fzf file
+	- `C-PgUP` @clink-gizmos/z_dir_popup.lua
+	- `C-A-PgUp` @clink-gizmos/cwdhistory.lua
+	- `i {dir} {command}` @clink-gizmos/i.lua
+	- `C-→` `C-→` @broot Preview
+	- `:ol` / `O` @broot Open
+	- `:e` / `E` @broot Edit
+	- `c/$text` @broot filter
+	- `A-Etr` @tere Go
+- Directory Opus
+	- `C-S-w` Close_Tab
+	- `C-S-c` Copy_Path
+	- `A-S-v` thumbnail
+	- `left_drag` copy
+	- `S-left_drag` @FastCopy move
+	- `right_drag` @FastCopy copy
+	- `right_drag` @Link_Shell_Extension Create_Symlink
+	- `A-left_double_click` @SmartZip decompress
+	- `F2` @Extended_functionality_for_F2 rename
+- Fluent Reader
+	- `b` Open_In_Browser
+	- `h` Hide_This_Post
+- GoldenDict-ng
+	- `A-z` Translate_Pasteboard
+	- `C-l` focus
+	- `A-S-g` Toggle_GoldenDict-ng
+	  id:: 65410518-dd64-43aa-a476-cd9fc364a164
+	- `A-g` Pick_Dictionary
+	- `C-A-g` @GoldenDictOCR Toggle_Scan_Popup
+	- `A-Left/Right` Show_Previous/Next_Founded_Results
+	- `C-S-f` Full_Text_Search
+- JPEGView
+	- `Spc` Zoom to 100%
+- mpv
+	- `?` @mpv-cheatsheet Show_Cheatsheet
+- Notion
+	- `C-S-k`search
+- Obsidian
+	- `C-left_clink` @Obsidian_Tabs
+- PureRef
+	- `C-Right` → `C-Down` → `C-f` → Resize by mouse wheel → `C-S-r`
+- QuiteRSS
+	- `C-o` Open_In_Browser
+- Sublime Text
+	- `C-S-p` Open_Console
+	- `C-Del` Delete_Next_Word
+	- `C-Bksp` Delete_Rrew_Word
+	- `C-S-j` Delete_Break
+	- `C-f` Find `A-f` Toggle_In_Seletion `A-r` Toggle_Regular_Expression
+	- `A-S-p` Switch_Project
+	- `C-A-p` @ProjectManager Open_Project_In_New_Window
+	- `Command Palette` @PackagesUI List_Package
+	- `Command Palette` @FindKeyConflicts find
+	- `Command Palette` @FindCursor find
+	- `Command Palette` @TrailingSpaces delete
+	- `Command Palette` @DeleteBlankLines delete
+	- `Command Palette` @FilterPipes convert
+	- `Command Palette` @Keymaps convert
+	- `Command Palette` @ChineseOpenConvert(ChineseConvert) convert
+	- `Command Palette` @ConvertFullHalfWidth convert
+	- `Command Palette` @SortBy
+	- `Command Palette` @Calculate
+	- `Command Palette` @StyleLint-Formatter lint
+	- `Menu` @Minify
+	- `C-k` `C-p` @Simple_Fuzzy Search_Project
+	- `C-k` `C-Arrows/C-S-Arrow` @Origami
+	- `C-k` `C-S-t` @Terminus Open_Terminal_Panel `A-w` Toggle_Terminal_Panel `A-S-w` Close_Terminal
+	- `C-S-z` @DashDoc Search_In_Zeal
+	- `C-S-a-n` `1:1~02` @InsertNums
+	- `:\emoji` `\_char` `\math` @UnicodeMath
+	- `A-Spc` @TextMarker Toggle_Select_Highlight
+- SystemTrayMenu
+	- `C-W` Toggle_SystemTrayMenu
+- Tabby
+	- `C-S-r` @quick-restart
+	- `C-S-Arrows` New_Window
+	- `C-S-w` Close_Window
+- Termux
+	- `C-A-v` paste
+	- `bindkey`
+- ugrep
+	- `C-q` exit
+- Windows Terminal Preview
+	- `C-S-w` exit
+	- `C-Del` Delete_A_Word

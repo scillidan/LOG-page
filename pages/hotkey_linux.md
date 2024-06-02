@@ -1,0 +1,56 @@
+- Arch Linux
+	- `C-A-F2` Open_Console
+- xfce
+	- `A-F3` xfce4-appfinder
+	- `C-F1` Workspace 1
+- i3
+	- `Mod-Etr` Open Terminal
+	- `Mod-r` Resize
+	- `Mod-e` Vertical or Horizontal
+	- `Mod-f` fullscreen
+	- `Mod-d` Open dmenu
+- Zellij
+	- `C-t` New_Tab
+	- `A-Left/Right` Swith_Tab
+	- `C-n``Arrows``Etr` Resize
+	- `C-p``Arrows``d` / `A-n` New_Window
+- Cmus
+	- `c` Pause_Playback `v` Stop_Playback
+	- `-``+` Reduce/Increase_The_Volume
+	- `/` Search
+- Vim
+	- `EscEsc` Back_To_Normal_Mode
+	- `i` Enter_Insert_Mode
+	- `R` Enter_Peplace_Mode
+	- `:` Enter_Command-line_Mode
+	- `:w` Save `:wq` / `x` / `ZZ` Save_And_Quit
+	- `d` Delete_Selection `dw` Delete_To_Next_Word `dd` Delete_Line(Cut) `3dd` Delete_3_Lines
+	- `y` Yank_Seletion(Copy) `yy` Yank_Line `3yy` Yank_3_Lines
+	- `p` Paste `P` Paste_Before
+	- `vip` Select_Paragraph `vipipip` Selete_More
+	- `<` `>` Indent_Left/Right `=` Autoindent
+	- `^` `$` Home/End_Of_line
+	- `gg` / `G` First/Last_Line
+	- `:3` / `3G` Go_To_Line_3
+	- `0` Start_Of_line
+	- `ge` `e` Previous/Next_End_Of_Line
+	- `b` `w` Previous/Next_Word
+	- `h` `j` `k` `l` Arrow_Keys
+	- `g~` Swap_Case `gU` Uppercase `gu` Lowercase
+- Wim
+	- `Maps` Show_Keymap
+	- `C-Left/Right` Switch_Tab
+- Neovim
+	- `C-w``w` window
+	- `%` @paint mode
+	- `$key` @which-key.nvim keymap
+	- `\?` @cheatsheet.nvim cheatsheet
+	- `\ff` @telescope.nvim search
+	- `\cd` @telescope-zoxide jump
+	- `:$number` @numb.nvim select
+	- `s` @leap.nvim select
+- LunarVim
+	- `C-\` @toggleterm.nvim terminal
+- RenPy
+	- `R` Autoreload
+	- `F4` Image_Load_Log

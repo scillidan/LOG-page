@@ -1,0 +1,21 @@
+- 我习惯在一处查看多处的Todo项，也用于备忘。以往不定期地会清理，目前会进行月结，保留一个印象。
+-
+- Schedule
+	- 网站上的安排是6~9h/wk * 12
+	- `1~2wk` Python
+	- `1~wk` Lua
+- OBS Studio
+	- 🐢 在MTGA里，新组彩虹卡组，打历史或永恒RANK
+- MkDocs，Obsidian是MkDocs的编辑侧
+	- 归档原稿
+	- ✅ 更换切换明亮/黑暗模式的`icon`
+	- ✅ 写点英语帖子或文章。短的也算
+	- ✅ 使用英语语法检查
+- JS-demo
+	- 🐢 更新cumaean内容
+	- 🐢 更新lg-video内容
+- site，VPS
+	- 🐌 lg-images的手机端的显示问题
+	- ✅ 修复BYYA-site上的图 (可能因为图片压缩脚本清除了`exif`里的方位信息)
+	- ✅ 使用Github Action部署网页到腾讯云VPS。完成了旧笔记
+	- ✅ 使用脚本更新Repo (网络)目前使用Github桌面端手动上传。部分需要填写commit的还是会手动上传

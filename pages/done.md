@@ -1,0 +1,14 @@
+- 2024R SHELL-of-windows?
+-
+- 202403 `ucon_arch_note.md`, `vbox_ubuntu_note.md`, lg-gif, Buy Parts
+- 202402 `vps.md`
+- 202401 All note, All csv, Zsh, Neovim, my_mpv, Termux
+- 202312 Temporary Work 1/3, `goldendict.md`, Re-install Windows, Re-organize Local Data, SERVE-demo
+- 202311 Keypirinha, GoldenDict, Termux, Cats, Temporary Work 2/3
+  id:: 6550a5f7-9f5e-445d-9b83-b70af7664482
+- 202310 `e-dict.md`, Archive Manga, GoldenDict-ng, Test whisper-webui, Re-Write, Logseq, NOTION-table(windows...)
+- 202309 Logseq, NOTION-table(renpy...), `mpv-lrc.md`, `mpv-lrc-edit.md`
+- 202308 Material-for-MkDocs, AutoHotKey(Lintalist...), PM2-demo(reference, excalith-start-page...), JS-demo, Keypirinha-Zealous, fontsource, NOTION-table
+- 202307 Start Log, Clean-Reconfigure Environment, PM2, Keypirinha, linkding, Miniflux
+- 202306 `*.csv`, `*.cmd(montage.cmd)`, Re-Install sd-webui, CUDA
+- 202305 Github, Archive Something, LunarVim, Love2d

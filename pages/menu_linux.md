@@ -1,0 +1,3 @@
+- xfce
+	- Screensaver → Enable Screensaver (Off)
+	- Lock Screen → Enable Lock Screen (Off)

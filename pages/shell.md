@@ -1,0 +1,33 @@
+- Folder_Name
+	- `name-` Unixlike_Index
+	- `-r` re-sort
+	- `-c` cache
+	- `-p` picture
+	- `s-` system
+- Open_With
+	- `.jpg` JPEGView-fork, IrfanView
+	- `.psd` IrfanView
+	- `.svg` qView
+	- `.gif` mpv
+	- `.epub` ePubViewer
+	- `.pdf` PDF.js
+	- `.m4a` mpv, fmedia
+- Reg
+	- `install-context.reg` sublime-text
+	- `install-context.reg` everything
+	- `install-context.reg` lockhunter
+	- `install-context.reg` vim (gvim)
+	- `register.reg` zlib
+	- `install-file-associations.reg` git
+- Version
+	- `scoop install nodejs18`
+	- `scoop install pnpm`
+	- `scoop install fnm`
+		- `fnm install 18.15.0`
+		- `fnm install 16.20.0`
+	- `scoop install python39`
+	- `scoop install openjdk11`
+	- `scoop install php72`
+	- `scoop install postgresql14`
+- Install
+	- `VBCABLE_Setup_x64.exe` vb-cable
