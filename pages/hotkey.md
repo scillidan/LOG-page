@@ -111,3 +111,17 @@
 - Windows Terminal Preview
 	- `C-S-w` exit
 	- `C-Del` Delete_A_Word
+- 8BitDo SN30 Pro
+	- `start` 上次使用模式 `start(3s)` 关机
+	- `start-x` `pair` 配对Windows
+	- `start-b` `pair` 配对Android
+	- `start-y` `pair` 配对Switch
+	- `start-a` `pair` 配对macOS
+- MonsGeek M1W
+	- `Fn-e` 蓝牙设备1
+	- `Fn-r` 蓝牙设备2
+	- `Fn-t` 蓝牙设备3
+	- `Fn-y` 2.4G无线设备
+	- `Fn-u` 有线模式
+	- `TheButton Bottom` 内置电源开
+	- `TheButton Middle` 内置电源关
