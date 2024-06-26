@@ -125,3 +125,5 @@
 	- `Fn-u` 有线模式
 	- `TheButton Bottom` 内置电源开
 	- `TheButton Middle` 内置电源关
+- Keychron Q1 Pro
+	- `TB` `Fn-1` 蓝牙设备1

@@ -1,3 +1,6 @@
+- Windows 10
+	- `A-Tab` Switch_To_Recent_Window `A(Hold)-Tab` Swith_To_Previous_Window
+	- `C-Tab` Switch_To_Next_Tab `C-S-Tab` Switch_To_PreviousNext_Tab
 - AltBacktick
 	- `A-Backquote` Switch_Between_Windows_Of_The_Same_Program
 - AutoHotKey
