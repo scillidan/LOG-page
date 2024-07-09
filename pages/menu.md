@@ -207,7 +207,6 @@
 	- 更改DNS服务器
 		- 查看网络连接 → 以太网 → 属性 → 网络 → Internet协议版本4 → 属性 → 自动获得DNS服务器地址
 		- 命令提示符 → `ipconfig /flushdns`
-
 - Galaxy S20
 	- 三星键盘 → 样式和布局/自定义符号
 - App Manager
@@ -217,3 +216,8 @@
 	- Setting → Remotes → Add → Webdav → Next ...
 	- Setting → Export config → `.../0/Download/rclone_andriod/ini` → 保存
 	- TheWebdav → TheSyncFolder → 更多 → Sync... → Sync local to remote
+- Cookie AutoDelete → 设置 → CAD设置 → 扩展选项 → 启用上下文菜单(右键菜单) (Off)
+- 沙拉查词 → 设置 → 右键菜单 → All Off
+- uBlock Origin → 设置 → 添加“屏蔽元素”到右键菜单 (Off)
+- 终结内容农场 → 设置 → 显示右键菜单命令 (Off)
+- Revision Tool → Security → Windows Defender (On)
