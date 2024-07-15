@@ -221,3 +221,4 @@
 - uBlock Origin → 设置 → 添加“屏蔽元素”到右键菜单 (Off)
 - 终结内容农场 → 设置 → 显示右键菜单命令 (Off)
 - Revision Tool → Security → Windows Defender (On)
+- 搜索 → 设置 → 词典设置 → 使用外置词典 → 目录 ...
